@@ -51,6 +51,7 @@ J’ai notamment construit un **score d’appétence SMS** 📲 pour améliorer 
 - 🎯 **Résolution de problèmes** – Approche méthodique pour résoudre des problématiques complexes.  
 - 🗣️ **Communication** – Capacité à vulgariser des concepts techniques pour les rendre accessibles aux non-experts.  
 - 🚀 **Adaptabilité** – Capacité à apprendre rapidement de nouvelles technologies et méthodologies.  
+- 🚀 **Curieux** – Toujours à l’affût des nouvelles tendances et technologies en data science.
 
 ---
 
@@ -78,6 +79,7 @@ J’ai notamment construit un **score d’appétence SMS** 📲 pour améliorer 
 
 
 ## 💼 Expériences Professionnelles *(Ou comment j’ai mis la théorie en pratique)* 
+📌 Optimisation du CRM et des campagnes marketing à travers l’analyse de segmentation client et la mise en place de modèles prédictifs.
 
 ### 📌 Data Scientist (Stage + Alternance) | Okaïdi | 05-2024 - Aujourd’hui  
 
@@ -109,7 +111,7 @@ J’ai notamment construit un **score d’appétence SMS** 📲 pour améliorer 
 🚀 **Impact** : **Amélioration du ciblage client et optimisation du budget CRM**.  
 
 
-## 🚀 Projets Perso *(Parce que j’aime expérimenter en dehors du boulot)*
+## 🚀 Projets Perso et académiques *(Parce que j’aime expérimenter en dehors du boulot)*
 
 ### 🏥 Conception d'une Base de Données pour un Cabinet Dentaire  
 
@@ -141,19 +143,56 @@ Analyser l’efficacité des différentes mesures de sécurité routière mises 
 #### 🛠️ Technologies  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 
-### 📌 Réalisations  
+#### 📌 Réalisations  
 ✅ **Exploration des Données** – Analyse d’une base de données fournie contenant des informations sur les accidents autoroutiers en France.  
 ✅ **Collecte et Intégration des Mesures de Sécurité** – Recherche des différentes politiques et mesures de sécurité routière mises en place au fil des années.  
 ✅ **Analyse Exploratoire et Visualisation** – Étude de l’évolution du nombre d’accidents et de décès en fonction des mesures mises en place.  
 ✅ **Modélisation Statistique** – Évaluation quantitative de l’impact des mesures via des analyses statistiques et des visualisations interactives.  
 ✅ **Recommandations Basées sur les Données** – Identification des stratégies de sécurité les plus efficaces et propositions d’amélioration.  
 
-### 🎯 Résultats  
+#### 🎯 Résultats  
 🔹 **Mise en évidence des mesures les plus impactantes** en matière de réduction des accidents et de la mortalité routière.  
 🔹 **Visualisation des tendances clés** et des périodes à risque.  
 🔹 **Propositions concrètes** pour optimiser la sécurité routière à partir des résultats obtenus.  
 
 📂 **Lien vers le projet** : [🔗 Voir le projet](#)  
+
+---
+
+### 🌪️ Détection de Tweets Catastrophes par Analyse de Langage Naturel
+
+#### 🚀 Objectif
+Développer un système intelligent de classification de tweets capables de détecter automatiquement les messages liés à des événements catastrophiques, en utilisant des techniques avancées de traitement du langage naturel.
+#### 🛠️ Technologies  
+
+#### 📌 Réalisations  
+
+#### 🎯 Résultats  
+
+---
+
+### 🌪️ Détection de Tweets Catastrophes par Analyse de Langage Naturel
+
+#### 🚀 Objectif
+Développer un système intelligent de classification de tweets capables de détecter automatiquement les messages liés à des événements catastrophiques, en utilisant des techniques avancées de traitement du langage naturel.
+#### 🛠️ Technologies  
+
+#### 📌 Réalisations  
+
+#### 🎯 Résultats  
+
+---
+
+### 🌪️ Détection de Tweets Catastrophes par Analyse de Langage Naturel
+
+#### 🚀 Objectif
+Développer un système intelligent de classification de tweets capables de détecter automatiquement les messages liés à des événements catastrophiques, en utilisant des techniques avancées de traitement du langage naturel.
+
+#### 🛠️ Technologies  
+
+#### 📌 Réalisations  
+
+#### 🎯 Résultats  
 
 ---
 
