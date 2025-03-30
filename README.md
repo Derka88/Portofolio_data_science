@@ -159,15 +159,27 @@ Analyser l’efficacité des différentes mesures de sécurité routière mises 
 
 ---
 
-### 🌪️ Détection de Tweets Catastrophes par Analyse de Langage Naturel
+### 🏦 Segmentation Client par Clustering pour une Banque en Ligne  
 
-#### 🚀 Objectif
-Développer un système intelligent de classification de tweets capables de détecter automatiquement les messages liés à des événements catastrophiques, en utilisant des techniques avancées de traitement du langage naturel.
+#### 🚀 Objectif  
+Optimiser la connaissance client pour améliorer l’expérience utilisateur et renforcer l’efficacité des actions marketing grâce à une segmentation basée sur le clustering.  
+
 #### 🛠️ Technologies  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 #### 📌 Réalisations  
+✅ **Exploration des Données** – Analyse descriptive des caractéristiques des clients pour identifier les variables pertinentes.  
+✅ **Prétraitement des Données** – Sélection et transformation des variables pour améliorer la qualité des segments.  
+✅ **Analyse des Correspondances Multiples (ACM)** – Réduction de dimensionnalité pour mieux visualiser les relations entre variables.  
+✅ **Segmentation Client** – Utilisation de la Classification Ascendante Hiérarchique (CAH) et du K-means pour identifier des groupes homogènes.  
+✅ **Modélisation d’Affiliation** – Développement d’un modèle d’affectation des nouveaux clients aux segments identifiés.  
 
 #### 🎯 Résultats  
+🔹 **Identification de profils clients distincts** permettant une personnalisation accrue des services.  
+🔹 **Optimisation des campagnes marketing** grâce à une segmentation plus fine.  
+🔹 **Amélioration de l’expérience utilisateur** en adaptant l’interface et les fonctionnalités du site aux besoins spécifiques des clients.  
+
+🔗 **Lien vers le projet** : [Accéder au projet](https://drive.google.com/drive/folders/1Sk0aZPcY9oBbEyTBtfvtuDjAai7je3Qq?usp=drive_link)  
 
 ---
 
