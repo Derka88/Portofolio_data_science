@@ -131,7 +131,7 @@ Développement d'une solution complète de gestion des données pour un cabinet 
 🔹 **Optimisation des processus internes** grâce à une gestion efficace des données  
 🔹 **Amélioration de la prise de décision** avec des analyses et des indicateurs clés  
 
-📂 **Lien vers le projet** : [🔗 Voir le projet](#)  
+📂 **Lien vers le projet** : [Accéder au projet](https://github.com/Derka88/cabinet-datawarehouse)  
 
 <br>
 
