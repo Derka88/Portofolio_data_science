@@ -67,7 +67,7 @@ J’ai notamment construit un **score d’appétence SMS** 📲 pour améliorer 
 - 🔹 **Traitement du langage naturel (NLP)**  
 - 🔹 **Big Data**  
 
----
+<br>
 
 ### 📌 Licence en Économie  
 **Université de Lille** | 09/2020 - 08/2023  
@@ -77,22 +77,22 @@ J’ai notamment construit un **score d’appétence SMS** 📲 pour améliorer 
 - 🔹 **Statistiques et économétrie**  
 - 🔹 **Théories et concepts économiques**  
 
+---
 
 ## 💼 Expériences Professionnelles *(Ou comment j’ai mis la théorie en pratique)* 
-📌 Optimisation du CRM et des campagnes marketing à travers l’analyse de segmentation client et la mise en place de modèles prédictifs.
 
 ### 📌 Data Scientist (Stage + Alternance) | Okaïdi | 05-2024 - Aujourd’hui  
+Optimisation du CRM et des campagnes marketing à travers l’analyse de segmentation client et la mise en place de modèles prédictifs.
 
-### 🔹 Analyse de la segmentation client  
+#### 🔹 Analyse de la segmentation client  
 - Réalisation d’analyses pour affiner la **connaissance client** et optimiser l’exploitation d’une segmentation récemment mise en place.  
 - Étude des comportements d’achat et des interactions clients avec les canaux digitaux et physiques.  
 
 🛠 **Technos** : SQL, Python, Looker, BigQuery  
 🚀 **Impact** : Meilleure compréhension des profils clients et **optimisation des stratégies marketing**.  
 
----
 
-### 🔹 Migration de cas d’usages data  
+#### 🔹 Migration de cas d’usages data  
 - Participation à la migration d’une **ancienne plateforme de données** vers une nouvelle.  
 - Analyse des cas d’usage existants, identification des sources dans le **nouvel environnement**, reconstruction des pipelines de données.  
 - Mise en place de tests et **recettes** pour garantir la qualité des migrations avant la mise en production.  
@@ -100,9 +100,8 @@ J’ai notamment construit un **score d’appétence SMS** 📲 pour améliorer 
 🛠 **Technos** : SQL, BigQuery, GCP  
 🚀 **Impact** : Assurer la continuité des services data, **éviter toute perte d’information et garantir la fiabilité des analyses métier**.  
 
----
 
-### 🔹 Construction d’un score d’appétence SMS  
+#### 🔹 Construction d’un score d’appétence SMS  
 - Développement d’un **modèle de scoring** permettant d’identifier les clients les plus réceptifs aux campagnes SMS.  
 - Collaboration avec les équipes métier pour définir la variable cible et sélectionner les **features explicatives**.  
 - **Modélisation et tests** de performance avant la mise en production.  
@@ -110,6 +109,7 @@ J’ai notamment construit un **score d’appétence SMS** 📲 pour améliorer 
 🛠 **Technos** : Python, SQL, BigQuery ML  
 🚀 **Impact** : **Amélioration du ciblage client et optimisation du budget CRM**.  
 
+---
 
 ## 🚀 Projets Perso et académiques *(Parce que j’aime expérimenter en dehors du boulot)*
 
@@ -133,7 +133,7 @@ Développement d'une solution complète de gestion des données pour un cabinet 
 
 📂 **Lien vers le projet** : [🔗 Voir le projet](#)  
 
----
+<br>
 
 ### 🚗 Étude des Impacts des Mesures de Sécurité Routière sur les Autoroutes Françaises  
 
@@ -157,7 +157,7 @@ Analyser l’efficacité des différentes mesures de sécurité routière mises 
 
 📂 **Lien vers le projet** : [🔗 Voir le projet](#)  
 
----
+<br>
 
 ### 🏦 Segmentation Client par Clustering pour une Banque en Ligne  
 
@@ -181,7 +181,7 @@ Optimiser la connaissance client pour améliorer l’expérience utilisateur et 
 
 🔗 **Lien vers le projet** : [Accéder au projet](https://drive.google.com/drive/folders/1Sk0aZPcY9oBbEyTBtfvtuDjAai7je3Qq?usp=drive_link)  
 
----
+<br>
 
 ### 🌪️ Détection de Tweets Catastrophes par Analyse de Langage Naturel
 
@@ -193,7 +193,7 @@ Développer un système intelligent de classification de tweets capables de dét
 
 #### 🎯 Résultats  
 
----
+<br>
 
 ### 🌪️ Détection de Tweets Catastrophes par Analyse de Langage Naturel
 
