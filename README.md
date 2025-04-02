@@ -1,11 +1,11 @@
 # Data Scientist
 
-![EEG Band Discovery](/assets/img/test.jpg)
+![EEG Band Discovery](/assets/img/Hello.png)
 
 **🚀 Hello World ! Bienvenue sur mon Portfolio 😎**
 Heyyy !! Si tu es là, c’est que tu veux en savoir plus sur moi (*ou alors tu t’es perdu, dans ce cas bienvenue quand même 😆*). Allez, installe-toi confortablement, prends un café ☕ et découvre mon parcours !
 
----
+___
 
 
 ## 🧐 Qui suis-je vraiment ?
