@@ -2,7 +2,6 @@
 
 ![EEG Band Discovery](/assets/img/Hello.png)
 
-**🚀 Hello World ! Bienvenue sur mon Portfolio 😎**
 Heyyy !! Si tu es là, c’est que tu veux en savoir plus sur moi (*ou alors tu t’es perdu, dans ce cas bienvenue quand même 😆*). Allez, installe-toi confortablement, prends un café ☕ et découvre mon parcours !
 
 ___
@@ -22,7 +21,7 @@ J’ai notamment construit un **score d’appétence SMS** 📲 pour améliorer 
 
 ---
 
-## 🛠️ Compétences Techniques 🚀 *(aka mon kit de survie)*
+## 🛠️ Compétences Techniques 🚀 
 
 ### Langages  
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  ![SAS](https://img.shields.io/badge/SAS-003366?style=for-the-badge&logo=sas&logoColor=white)  ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
@@ -44,7 +43,7 @@ J’ai notamment construit un **score d’appétence SMS** 📲 pour améliorer 
 
 ---
 
-## 💡 Soft Skills *(Parce que je suis plus qu'un nerd de la data)*
+## 💡 Soft Skills 
 
 - 📊 **Esprit analytique** – Capacité à extraire des insights pertinents et à proposer des recommandations data-driven.  
 - 🤝 **Travail en équipe** – Expérience en collaboration avec des équipes métiers, IT et marketing.  
@@ -55,7 +54,7 @@ J’ai notamment construit un **score d’appétence SMS** 📲 pour améliorer 
 
 ---
 
-## 🎓 Formation *(Où j’ai appris à dompter la data)*
+## 🎓 Formation 
 
 ### 📌 Master 2 Systèmes d'Information et Aide à la Décision (SIAD)  
 **Université de Lille** | 09/2023 - 09/2025  
@@ -79,7 +78,7 @@ J’ai notamment construit un **score d’appétence SMS** 📲 pour améliorer 
 
 ---
 
-## 💼 Expériences Professionnelles *(Ou comment j’ai mis la théorie en pratique)* 
+## 💼 Expériences Professionnelles 
 
 ### 📌 Data Scientist (Stage + Alternance) | Okaïdi | 05-2024 - Aujourd’hui  
 Optimisation du CRM et des campagnes marketing à travers l’analyse de segmentation client et la mise en place de modèles prédictifs.
@@ -116,20 +115,19 @@ Optimisation du CRM et des campagnes marketing à travers l’analyse de segment
 ### 🏥 Conception d'une Base de Données pour un Cabinet Dentaire  
 
 #### 🚀 Objectif  
-Développement d'une solution complète de gestion des données pour un cabinet dentaire, de la modélisation des données à la visualisation.  
-
+Un groupe dentaire avait besoin d'une solution structurée pour centraliser et exploiter efficacement ses données client (comptes, informations personnelles, adresses, contacts), afin d'améliorer le suivi administratif et la gestion des patients.
 #### 🛠️ Technologies  
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white) ![Semarchy](https://img.shields.io/badge/Semarchy-0073CF?style=for-the-badge&logo=data&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 
 #### 📌 Réalisations  
-✅ **Conception du Modèle de Données** – Développement des modèles conceptuel et logique des données pour structurer l’information.  
-✅ **Pipeline d’Intégration de Données** – Mise en place d’un processus robuste pour collecter, transformer et charger les données avec des contrôles de qualité.  
-✅ **Dashboard de Suivi Client** – Construction d’un tableau de bord interactif permettant au cabinet dentaire d’analyser sa base client et d’améliorer la gestion des rendez-vous et des dossiers patients.  
+✅ Modélisation des données métier via MCD (Modèle Conceptuel de Données) et MLD (Modèle Logique de Données) pour organiser de manière cohérente les informations relatives aux clients/patients.
+✅ Mise en place d'un processus d'intégration de données (ETL) utilisant Semarchy xDI pour traiter des fichiers plats : nettoyage des données, transformations nécessaires et application de contrôles de qualité pour garantir la fiabilité.
+✅ Conception d'un tableau de bord sous Power BI, connecté aux données structurées, permettant un suivi d'activité focalisé sur les patients et offrant une fonctionnalité de recherche patient optimisée.
 
 #### 🎯 Résultats  
-🔹 **Meilleure visibilité** sur la base client et les performances du cabinet  
-🔹 **Optimisation des processus internes** grâce à une gestion efficace des données  
-🔹 **Amélioration de la prise de décision** avec des analyses et des indicateurs clés  
+🔹 Base de données client structurée et fiable, améliorant la qualité et l'accessibilité de l'information.
+🔹 Processus d'intégration de données automatisé réduisant les erreurs manuelles.  
+🔹 Tableau de bord décisionnel facilitant le suivi de l'activité patient et la recherche d'informations spécifiques. 
 
 📂 **Lien vers le projet** : [Accéder au projet](https://github.com/Derka88/cabinet-datawarehouse)  
 
@@ -185,27 +183,110 @@ Optimiser la connaissance client pour améliorer l’expérience utilisateur et 
 
 ### 🌪️ Détection de Tweets Catastrophes par Analyse de Langage Naturel
 
-#### 🚀 Objectif
-Développer un système intelligent de classification de tweets capables de détecter automatiquement les messages liés à des événements catastrophiques, en utilisant des techniques avancées de traitement du langage naturel.
-#### 🛠️ Technologies  
+#### 🚀 Problème à résoudre
+Développer un système capable de distinguer automatiquement les tweets rapportant de réelles catastrophes de ceux utilisant un langage similaire de manière non littérale, afin d'améliorer la veille informationnelle lors d'événements critiques. (Basé sur une compétition Kaggle).
 
 #### 📌 Réalisations  
+✅ Prétraitement approfondi des données textuelles (nettoyage, tokenisation, lemmatisation).
+✅ Extraction de features discriminantes via différentes techniques : Bag of Words, TF-IDF, et embeddings contextuels (BERT).
+✅ Entraînement et évaluation comparative de plusieurs modèles de classification : Régression Logistique, Random Forest, XGBoost, et modèles basés sur BERT.  
+✅ Déploiement d'un outil interactif simple permettant de tester le modèle sur de nouveaux tweets et d'analyser les prédictions.homogènes.  
+
+
+#### 🛠️ Technologies  
+(Scikit-learn, Pandas, NLTK), / Keras
 
 #### 🎯 Résultats  
+🔹 Modèle de classification performant capable d'identifier les tweets liés aux catastrophes avec une bonne précision. 
+🔹 Application web interactive pour la démonstration et l'analyse en temps réel.
+🔹 Montée en compétence sur les techniques NLP avancées (BERT) et le déploiement simple (Streamlit).
+
 
 <br>
 
-### 🌪️ Détection de Tweets Catastrophes par Analyse de Langage Naturel
+### ⚡ MLOps – Prévision de la Consommation Électrique Nationale
 
-#### 🚀 Objectif
-Développer un système intelligent de classification de tweets capables de détecter automatiquement les messages liés à des événements catastrophiques, en utilisant des techniques avancées de traitement du langage naturel.
+#### 🚀 Problème à résoudre
+Mettre en place un pipeline MLOps robuste pour prévoir la consommation électrique nationale (basée sur les données RTE), en assurant la reproductibilité des expériences et le suivi des performances des modèles.
+
+#### 📌 Réalisations  
+✅ Analyse exploratoire des données historiques de consommation fournies par RTE (identification des tendances, saisonnalités, anomalies).
+✅ Visualisation des séries temporelles pour mieux comprendre les patterns de consommation.
+✅ Feature engineering spécifique aux séries temporelles : création de variables calendaires, encodage cyclique des features temporelles (jour, semaine, mois, année), lags.
+✅ Entraînement de différents modèles de prévision (ex: modèles statistiques, algorithmes de ML type Gradient Boosting).
+✅ Mise en place du suivi systématique des expérimentations (paramètres, métriques, artefacts) via MLflow. 
+
+
+
+
+#### 🛠️ Technologies  
+(Python, MLflow
+
+#### 🎯 Résultats  
+🔹 Développement de modèles capables de prévoir la consommation électrique à court/moyen terme.
+🔹 Pipeline MLOps fonctionnel assurant la traçabilité et la comparabilité des modèles entraînés.
+🔹 Meilleure compréhension des facteurs influençant la consommation électrique nationale.
+
+<br>
+
+### Datawarehouse Ventes Internationales – Okaïdi
+
+#### 🚀 Problème à résoudre
+Fournir une vision consolidée et fiable des indicateurs de vente à l'international pour l'entreprise Okaïdi, en centralisant des données provenant de différentes sources (fichiers de caisse, référentiels articles). (Clarification: Ce projet est distinct de mon expérience pro).
+
+#### 📌 Réalisations  
+✅ Conception d'un datawarehouse en étoile optimisé pour l'analyse des ventes (tables de faits, dimensions : temps, magasin, article...).
+✅ Mise en place d'un processus ETL robuste avec Semarchy xDI pour l'ingestion, la validation (contrôles qualité), et la transformation des données brutes (fichiers plats issus des caisses, référentiels articles).
+✅ Alimentation du datawarehouse structuré.
+✅ Création de tableaux de bord dynamiques sous Power BI, connectés au DWH, pour le suivi des indicateurs clés (chiffre d'affaires, volume, panier moyen...) par différentes dimensions.
+
+
+#### 🛠️ Technologies
+SQL,SEMARCHY  
+
+#### 🎯 Résultats  
+🔹 Datawarehouse centralisé fournissant une source unique de vérité pour les données de ventes internationales.
+🔹 Processus ETL automatisé et fiable garantissant la qualité des données.
+🔹 Tableaux de bord Power BI permettant un pilotage efficace de la performance commerciale à l'international.
+ 
+<br>
+
+### Nom du projet
+
+#### 🚀 Problème à résoudre
+ 
+#### 📌 Réalisations  
+✅
+✅
+✅
 
 #### 🛠️ Technologies  
 
+#### 🎯 Résultats  
+🔹
+🔹
+🔹
+
+<br>
+
+### Nom du projet
+
+#### 🚀 Problème à résoudre
+ 
 #### 📌 Réalisations  
+✅
+✅
+✅
+
+#### 🛠️ Technologies  
 
 #### 🎯 Résultats  
+🔹
+🔹
+🔹
+ 
 
+<br>
 ---
 
 ## 🌍 Langues  
