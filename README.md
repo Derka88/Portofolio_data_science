@@ -112,142 +112,153 @@ Optimisation du CRM et des campagnes marketing à travers l’analyse de segment
 
 ## 🚀 Projets Perso et académiques *(Parce que j’aime expérimenter en dehors du boulot)*
 
-### 🏥 Conception d'une Base de Données pour un Cabinet Dentaire  
+### 🏥 Conception d'une Base de Données pour un Cabinet Dentaire
 
-#### 🚀 Objectif  
-Un groupe dentaire avait besoin d'une solution structurée pour centraliser et exploiter efficacement ses données client (comptes, informations personnelles, adresses, contacts), afin d'améliorer le suivi administratif et la gestion des patients.
+#### ❓ Problème à résoudre  
+Fournir à un cabinet dentaire une solution structurée pour centraliser les données patients (comptes, adresses, contacts) afin d’améliorer le suivi administratif et la gestion quotidienne.
+
 #### 🛠️ Technologies  
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white) ![Semarchy](https://img.shields.io/badge/Semarchy-0073CF?style=for-the-badge&logo=data&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Semarchy](https://img.shields.io/badge/Semarchy-0073CF?style=for-the-badge&logo=data&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 #### 📌 Réalisations  
-✅ Modélisation des données métier via MCD (Modèle Conceptuel de Données) et MLD (Modèle Logique de Données) pour organiser de manière cohérente les informations relatives aux clients/patients.
-✅ Mise en place d'un processus d'intégration de données (ETL) utilisant Semarchy xDI pour traiter des fichiers plats : nettoyage des données, transformations nécessaires et application de contrôles de qualité pour garantir la fiabilité.
-✅ Conception d'un tableau de bord sous Power BI, connecté aux données structurées, permettant un suivi d'activité focalisé sur les patients et offrant une fonctionnalité de recherche patient optimisée.
+✅ Modélisation conceptuelle et logique des données (MCD & MLD) pour structurer l’information autour des patients.  
+✅ Intégration des données issues de fichiers plats via un processus ETL automatisé (nettoyage, transformation, contrôle qualité) sous Semarchy xDI.  
+✅ Création d’un tableau de bord Power BI connecté, offrant une visualisation claire des données patients et un moteur de recherche performant.
 
 #### 🎯 Résultats  
-🔹 Base de données client structurée et fiable, améliorant la qualité et l'accessibilité de l'information.
-🔹 Processus d'intégration de données automatisé réduisant les erreurs manuelles.  
-🔹 Tableau de bord décisionnel facilitant le suivi de l'activité patient et la recherche d'informations spécifiques. 
+🔹 Base de données centralisée et fiable facilitant la gestion des patients.  
+🔹 ETL robuste réduisant les erreurs humaines et assurant la qualité des données.  
+🔹 Dashboard intuitif pour un pilotage efficace de l’activité du cabinet.
 
-📂 **Lien vers le projet** : [Accéder au projet](https://github.com/Derka88/cabinet-datawarehouse)  
+📂 **Lien vers le projet** : [Accéder au projet](https://github.com/Derka88/cabinet-datawarehouse)
+
+
+<br> 
+
+### 🚗 Étude des Impacts des Mesures de Sécurité Routière sur les Autoroutes Françaises
+
+#### ❓ Problème à résoudre  
+Évaluer l’efficacité des différentes mesures de sécurité routière mises en place sur les autoroutes françaises, en analysant leur impact sur le nombre d’accidents et de décès.
+
+#### 🛠️ Technologies  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### 📌 Réalisations  
+✅ **Exploration des données** – Analyse d’une base d’accidents sur les autoroutes françaises.  
+✅ **Intégration de données externes** – Recherche et collecte des mesures de sécurité mises en place au fil du temps.  
+✅ **Visualisation & analyse exploratoire** – Étude des tendances d’accidents et de mortalité avant/après les mesures.  
+✅ **Modélisation statistique** – Quantification de l’impact des mesures via des modèles statistiques et visuels interactifs.  
+✅ **Recommandations stratégiques** – Propositions d’amélioration basées sur les données analysées.
+
+#### 🎯 Résultats  
+🔹 **Identification des mesures les plus efficaces** pour réduire les accidents et décès.  
+🔹 **Mise en lumière de périodes critiques** et des tendances structurelles.  
+🔹 **Recommandations data-driven** pour guider les futures politiques de sécurité.
+
+📂 **Lien vers le projet** : [🔗 Voir le projet](#)
 
 <br>
 
-### 🚗 Étude des Impacts des Mesures de Sécurité Routière sur les Autoroutes Françaises  
+### 🏦 Segmentation Client par Clustering pour une Banque en Ligne
 
-#### 🚀 Objectif  
-Analyser l’efficacité des différentes mesures de sécurité routière mises en place sur les autoroutes françaises en évaluant leur impact sur le nombre d’accidents et de décès.  
-
-#### 🛠️ Technologies  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-
-#### 📌 Réalisations  
-✅ **Exploration des Données** – Analyse d’une base de données fournie contenant des informations sur les accidents autoroutiers en France.  
-✅ **Collecte et Intégration des Mesures de Sécurité** – Recherche des différentes politiques et mesures de sécurité routière mises en place au fil des années.  
-✅ **Analyse Exploratoire et Visualisation** – Étude de l’évolution du nombre d’accidents et de décès en fonction des mesures mises en place.  
-✅ **Modélisation Statistique** – Évaluation quantitative de l’impact des mesures via des analyses statistiques et des visualisations interactives.  
-✅ **Recommandations Basées sur les Données** – Identification des stratégies de sécurité les plus efficaces et propositions d’amélioration.  
-
-#### 🎯 Résultats  
-🔹 **Mise en évidence des mesures les plus impactantes** en matière de réduction des accidents et de la mortalité routière.  
-🔹 **Visualisation des tendances clés** et des périodes à risque.  
-🔹 **Propositions concrètes** pour optimiser la sécurité routière à partir des résultats obtenus.  
-
-📂 **Lien vers le projet** : [🔗 Voir le projet](#)  
-
-<br>
-
-### 🏦 Segmentation Client par Clustering pour une Banque en Ligne  
-
-#### 🚀 Objectif  
-Optimiser la connaissance client pour améliorer l’expérience utilisateur et renforcer l’efficacité des actions marketing grâce à une segmentation basée sur le clustering.  
+#### ❓ Problème à résoudre  
+Améliorer la connaissance client et renforcer l’efficacité des actions marketing grâce à une segmentation basée sur le clustering, afin de mieux personnaliser l’expérience utilisateur.
 
 #### 🛠️ Technologies  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 #### 📌 Réalisations  
-✅ **Exploration des Données** – Analyse descriptive des caractéristiques des clients pour identifier les variables pertinentes.  
-✅ **Prétraitement des Données** – Sélection et transformation des variables pour améliorer la qualité des segments.  
-✅ **Analyse des Correspondances Multiples (ACM)** – Réduction de dimensionnalité pour mieux visualiser les relations entre variables.  
-✅ **Segmentation Client** – Utilisation de la Classification Ascendante Hiérarchique (CAH) et du K-means pour identifier des groupes homogènes.  
-✅ **Modélisation d’Affiliation** – Développement d’un modèle d’affectation des nouveaux clients aux segments identifiés.  
+✅ **Exploration des données** – Analyse descriptive des caractéristiques clients pour identifier les variables pertinentes.  
+✅ **Prétraitement** – Sélection et transformation des variables pour améliorer la qualité des segments.  
+✅ **Analyse des Correspondances Multiples (ACM)** – Réduction de la dimensionnalité pour visualiser les liens entre variables.  
+✅ **Segmentation** – Application de la Classification Ascendante Hiérarchique (CAH) et du K-means pour former des groupes homogènes.  
+✅ **Modèle d’affectation** – Développement d’un algorithme pour assigner les nouveaux clients aux segments identifiés.
 
 #### 🎯 Résultats  
-🔹 **Identification de profils clients distincts** permettant une personnalisation accrue des services.  
-🔹 **Optimisation des campagnes marketing** grâce à une segmentation plus fine.  
-🔹 **Amélioration de l’expérience utilisateur** en adaptant l’interface et les fonctionnalités du site aux besoins spécifiques des clients.  
+🔹 **Profils clients distincts** identifiés pour une personnalisation des services.  
+🔹 **Campagnes marketing optimisées** grâce à une segmentation pertinente.  
+🔹 **Expérience utilisateur enrichie** via l’adaptation des offres et interfaces.
 
-🔗 **Lien vers le projet** : [Accéder au projet](https://drive.google.com/drive/folders/1Sk0aZPcY9oBbEyTBtfvtuDjAai7je3Qq?usp=drive_link)  
+🔗 **Lien vers le projet** : [Accéder au projet](https://drive.google.com/drive/folders/1Sk0aZPcY9oBbEyTBtfvtuDjAai7je3Qq?usp=drive_link)
+
 
 <br>
 
 ### 🌪️ Détection de Tweets Catastrophes par Analyse de Langage Naturel
 
-#### 🚀 Problème à résoudre
-Développer un système capable de distinguer automatiquement les tweets rapportant de réelles catastrophes de ceux utilisant un langage similaire de manière non littérale, afin d'améliorer la veille informationnelle lors d'événements critiques. (Basé sur une compétition Kaggle).
-
-#### 📌 Réalisations  
-✅ Prétraitement approfondi des données textuelles (nettoyage, tokenisation, lemmatisation).
-✅ Extraction de features discriminantes via différentes techniques : Bag of Words, TF-IDF, et embeddings contextuels (BERT).
-✅ Entraînement et évaluation comparative de plusieurs modèles de classification : Régression Logistique, Random Forest, XGBoost, et modèles basés sur BERT.  
-✅ Déploiement d'un outil interactif simple permettant de tester le modèle sur de nouveaux tweets et d'analyser les prédictions.homogènes.  
-
+#### ❓ Problème à résoudre  
+Développer un système capable de distinguer automatiquement les tweets rapportant de réelles catastrophes de ceux utilisant un langage similaire de manière non littérale, afin d'améliorer la veille informationnelle lors d'événements critiques. *(Basé sur une compétition Kaggle).*
 
 #### 🛠️ Technologies  
-(Scikit-learn, Pandas, NLTK), / Keras
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NLTK](https://img.shields.io/badge/NLTK-8A2BE2?style=for-the-badge)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+#### 📌 Réalisations  
+✅ **Prétraitement des données textuelles** – Nettoyage, tokenisation, lemmatisation pour standardiser les textes.  
+✅ **Extraction de features** – Utilisation de Bag of Words, TF-IDF et embeddings BERT pour capter les nuances sémantiques.  
+✅ **Modélisation** – Entraînement de plusieurs modèles : Régression Logistique, Random Forest, XGBoost, et fine-tuning de modèles BERT.  
+✅ **Déploiement** – Création d'une application Streamlit permettant de tester le modèle en temps réel sur de nouveaux tweets.
 
 #### 🎯 Résultats  
-🔹 Modèle de classification performant capable d'identifier les tweets liés aux catastrophes avec une bonne précision. 
-🔹 Application web interactive pour la démonstration et l'analyse en temps réel.
-🔹 Montée en compétence sur les techniques NLP avancées (BERT) et le déploiement simple (Streamlit).
+🔹 **Modèle performant** pour l’identification automatique des tweets signalant de vraies catastrophes.  
+🔹 **Application web interactive** facilitant l’évaluation et la démonstration du modèle.  
+🔹 **Montée en compétences en NLP avancé** grâce à l'intégration de BERT et d'outils de déploiement simples.
 
 
 <br>
 
 ### ⚡ MLOps – Prévision de la Consommation Électrique Nationale
 
-#### 🚀 Problème à résoudre
+#### ❓ Problème à résoudre  
 Mettre en place un pipeline MLOps robuste pour prévoir la consommation électrique nationale (basée sur les données RTE), en assurant la reproductibilité des expériences et le suivi des performances des modèles.
 
-#### 📌 Réalisations  
-✅ Analyse exploratoire des données historiques de consommation fournies par RTE (identification des tendances, saisonnalités, anomalies).
-✅ Visualisation des séries temporelles pour mieux comprendre les patterns de consommation.
-✅ Feature engineering spécifique aux séries temporelles : création de variables calendaires, encodage cyclique des features temporelles (jour, semaine, mois, année), lags.
-✅ Entraînement de différents modèles de prévision (ex: modèles statistiques, algorithmes de ML type Gradient Boosting).
-✅ Mise en place du suivi systématique des expérimentations (paramètres, métriques, artefacts) via MLflow. 
-
-
-
-
 #### 🛠️ Technologies  
-(Python, MLflow
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+#### 📌 Réalisations  
+✅ **Analyse exploratoire** des données RTE : identification des tendances, saisonnalités et anomalies.  
+✅ **Visualisation des séries temporelles** pour comprendre les patterns de consommation.  
+✅ **Feature engineering temporel** – Variables calendaires, encodage cyclique (jour, semaine, mois, année), lags.  
+✅ **Modélisation** – Entraînement de modèles statistiques et de machine learning (ex : Gradient Boosting).  
+✅ **Suivi des expérimentations avec MLflow** – Tracking des hyperparamètres, métriques et artefacts pour une meilleure reproductibilité.
 
 #### 🎯 Résultats  
-🔹 Développement de modèles capables de prévoir la consommation électrique à court/moyen terme.
-🔹 Pipeline MLOps fonctionnel assurant la traçabilité et la comparabilité des modèles entraînés.
-🔹 Meilleure compréhension des facteurs influençant la consommation électrique nationale.
+🔹 **Modèles prédictifs efficaces** pour la prévision de la consommation à court et moyen terme.  
+🔹 **Pipeline MLOps structuré** assurant traçabilité et comparabilité des versions de modèles.  
+🔹 **Insights métier** sur les facteurs influençant la consommation électrique nationale.
 
 <br>
 
-### Datawarehouse Ventes Internationales – Okaïdi
+### 🌍 Datawarehouse Ventes Internationales – Okaïdi
 
-#### 🚀 Problème à résoudre
-Fournir une vision consolidée et fiable des indicateurs de vente à l'international pour l'entreprise Okaïdi, en centralisant des données provenant de différentes sources (fichiers de caisse, référentiels articles). (Clarification: Ce projet est distinct de mon expérience pro).
+#### ❓ Problème à résoudre  
+Fournir une vision consolidée et fiable des indicateurs de vente à l'international pour l'entreprise Okaïdi, en centralisant des données provenant de différentes sources (fichiers de caisse, référentiels articles).  
+*(Clarification : ce projet est distinct de mon expérience professionnelle chez Okaïdi).*
+
+#### 🛠️ Technologies  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Semarchy](https://img.shields.io/badge/Semarchy-xDI-blue?style=for-the-badge)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 #### 📌 Réalisations  
-✅ Conception d'un datawarehouse en étoile optimisé pour l'analyse des ventes (tables de faits, dimensions : temps, magasin, article...).
-✅ Mise en place d'un processus ETL robuste avec Semarchy xDI pour l'ingestion, la validation (contrôles qualité), et la transformation des données brutes (fichiers plats issus des caisses, référentiels articles).
-✅ Alimentation du datawarehouse structuré.
-✅ Création de tableaux de bord dynamiques sous Power BI, connectés au DWH, pour le suivi des indicateurs clés (chiffre d'affaires, volume, panier moyen...) par différentes dimensions.
-
-
-#### 🛠️ Technologies
-SQL,SEMARCHY  
+✅ **Modélisation d’un datawarehouse en étoile** – Conception des tables de faits et dimensions (temps, magasin, article...).  
+✅ **Développement d’un processus ETL avec Semarchy xDI** – Ingestion, contrôle qualité et transformation de données brutes (fichiers plats, référentiels).  
+✅ **Alimentation automatisée** du datawarehouse structuré pour l'analyse.  
+✅ **Création de tableaux de bord Power BI** dynamiques connectés au DWH : suivi du chiffre d’affaires, volume, panier moyen par axes d’analyse variés.
 
 #### 🎯 Résultats  
-🔹 Datawarehouse centralisé fournissant une source unique de vérité pour les données de ventes internationales.
-🔹 Processus ETL automatisé et fiable garantissant la qualité des données.
-🔹 Tableaux de bord Power BI permettant un pilotage efficace de la performance commerciale à l'international.
+🔹 **Datawarehouse centralisé** assurant une source unique de vérité sur les ventes internationales.  
+🔹 **ETL robuste** garantissant la qualité, l’automatisation et la traçabilité des flux de données.  
+🔹 **Dashboarding efficace** pour un pilotage commercial multi-dimensions.
+
  
 <br>
 
