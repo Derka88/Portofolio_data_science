@@ -99,6 +99,8 @@ Acquérir une solide culture économique générale, associée à des compétenc
 ### 📌 Data Scientist (Stage + Alternance) | Okaïdi | Mai 2024 – Aujourd’hui  
 Participation à des projets au service de la performance client, en lien étroit avec les équipes CRM et Data.
 
+---
+
 #### 🔹 Analyse de la segmentation client  
 🚀 **Problème à résoudre**  
 Mieux exploiter une segmentation récemment mise en place pour améliorer la connaissance client et affiner les ciblages marketing.  
@@ -112,6 +114,8 @@ Mieux exploiter une segmentation récemment mise en place pour améliorer la con
 🎯 **Résultats**  
 - Segmentation enrichie de profils comportementaux.  
 - Meilleur ciblage des campagnes, cohérent avec les typologies clients.
+
+---
 
 #### 🔹 Migration de cas d’usage data  
 🚀 **Problème à résoudre**  
@@ -128,6 +132,8 @@ Assurer la continuité des analyses et automatisations lors de la migration d’
 - Reprise complète des cas d’usage critiques sans perte de données.  
 - Données plus accessibles et traitements plus rapides sur la nouvelle plateforme.
 
+---
+
 #### 🔹 Construction d’un score d’appétence SMS  
 🚀 **Problème à résoudre**  
 Identifier les clients les plus sensibles aux campagnes SMS pour optimiser les performances CRM et éviter le gaspillage budgétaire.  
@@ -142,7 +148,6 @@ Identifier les clients les plus sensibles aux campagnes SMS pour optimiser les p
 🎯 **Résultats**  
 - Score d’appétence intégré dans les campagnes.  
 - Taux de conversion SMS amélioré et budget marketing mieux ciblé.
-
 
 ---
 
@@ -169,7 +174,6 @@ Fournir à un cabinet dentaire une solution structurée pour centraliser les don
 🔹 Dashboard intuitif pour un pilotage efficace de l’activité du cabinet.
 
 📂 **Lien vers le projet** : [Accéder au projet](https://github.com/Derka88/cabinet-datawarehouse)
-
 
 <br> 
 
