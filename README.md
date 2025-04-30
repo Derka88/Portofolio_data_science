@@ -9,11 +9,11 @@ ___
 
 ## 🧐 Qui suis-je vraiment ?
 
-Actuellement en alternance chez **Okaïdi** au sein du pôle Performance Client, j’ai développé des compétences solides en **data science appliquée au CRM et au marketing**. Traduction : j’analyse des données clients pour optimiser leur engagement et booster les campagnes marketing. 📊💡
+Actuellement en alternance chez **Okaïdi** au sein du pôle Performance Client, j’ai développé des compétences solides en **data science appliquée au CRM et au marketing**. Traduction : j’analyse des données clients pour optimiser leur engagement et booster les campagnes marketing. 
 
 J’ai notamment construit un **score d’appétence SMS** 📲 pour améliorer le ciblage client et mené des analyses poussées sur la **segmentation client**. Ma boîte à outils préférée ? **SQL, Python, Looker et BigQuery sur GCP**.
 
-🎯 **Objectif :** Trouver une nouvelle opportunité en data à partir de **septembre 2025**. Let’s talk !
+**Objectif :** Trouver une nouvelle opportunité en data à partir de **septembre 2025**. Let’s talk !
 
 📩 **Contacte-moi :**
 - [LinkedIn](#) 💼
@@ -21,7 +21,7 @@ J’ai notamment construit un **score d’appétence SMS** 📲 pour améliorer 
 
 ---
 
-## 🛠️ Compétences Techniques 🚀 
+## 🛠️ Compétences Techniques  
 
 ### Langages  
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  ![SAS](https://img.shields.io/badge/SAS-003366?style=for-the-badge&logo=sas&logoColor=white)  ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
@@ -45,68 +45,105 @@ J’ai notamment construit un **score d’appétence SMS** 📲 pour améliorer 
 
 ## 💡 Soft Skills 
 
-- 📊 **Esprit analytique** – Capacité à extraire des insights pertinents et à proposer des recommandations data-driven.  
-- 🤝 **Travail en équipe** – Expérience en collaboration avec des équipes métiers, IT et marketing.  
-- 🎯 **Résolution de problèmes** – Approche méthodique pour résoudre des problématiques complexes.  
-- 🗣️ **Communication** – Capacité à vulgariser des concepts techniques pour les rendre accessibles aux non-experts.  
-- 🚀 **Adaptabilité** – Capacité à apprendre rapidement de nouvelles technologies et méthodologies.  
-- 🚀 **Curieux** – Toujours à l’affût des nouvelles tendances et technologies en data science.
+- **Esprit analytique** – Capacité à extraire des insights pertinents et à proposer des recommandations data-driven.  
+- **Travail en équipe** – Expérience en collaboration avec des équipes métiers, IT et marketing.  
+- **Résolution de problèmes** – Approche méthodique pour résoudre des problématiques complexes.  
+- **Communication** – Capacité à vulgariser des concepts techniques pour les rendre accessibles aux non-experts.  
+- **Adaptabilité** – Capacité à apprendre rapidement de nouvelles technologies et méthodologies.  
+- **Curieux** – Toujours à l’affût des nouvelles tendances et technologies en data science.
 
 ---
 
-## 🎓 Formation 
+## 🎓 Formation
 
 ### 📌 Master 2 Systèmes d'Information et Aide à la Décision (SIAD)  
-**Université de Lille** | 09/2023 - 09/2025  
+**Université de Lille** | 09/2023 - 09/2025
 
-📚 **Compétences & matières clés** :  
-- 🔹 **Analyse de données** et **visualisation**  
-- 🔹 **Gestion et conception de bases de données relationnelles**  
-- 🔹 **Statistiques, économétrie & Machine Learning**  
-- 🔹 **Traitement du langage naturel (NLP)**  
-- 🔹 **Big Data**  
+**🎯 Objectif de la formation**  
+Former des spécialistes capables de maîtriser l'ensemble de la chaîne de traitement de l'information, combinant compétences en informatique décisionnelle, statistiques avancées et compréhension des logiques métiers, pour accompagner la prise de décision dans des environnements complexes et riches en données.
 
-<br>
+**📚 Compétences & matières clés**  
+- 🔹 *Informatique décisionnelle* : modélisation de données, bases de données relationnelles, ETL/ELT, requêteurs, logiciels d'interrogation.  
+- 🔹 *Méthodes statistiques avancées* : analyse de données, régressions économétriques, data mining, traitement des données massives.  
+- 🔹 *Économie et gestion* : compréhension des mécanismes économiques fondamentaux, fonctions de l'entreprise (marketing, comptabilité, contrôle).  
+- 🔹 *Professionnalisation* : stages, projets tutorés, préparation à l'insertion professionnelle.  
+- 🔹 *Big Data & Machine Learning* : apprentissage automatique et traitement de grandes volumétries de données.  
+- 🔹 *Traitement du langage naturel (NLP)* : analyse et modélisation du langage pour extraire des informations pertinentes.  
 
-### 📌 Licence en Économie  
-**Université de Lille** | 09/2020 - 08/2023  
-
-📚 **Compétences & matières clés** :  
-- 🔹 **Microéconomie & Macroéconomie**  
-- 🔹 **Statistiques et économétrie**  
-- 🔹 **Théories et concepts économiques**  
+**🛠️ Technologies abordées** : Python, R, SQL, Power BI, outils ETL, plateformes Big Data.  
+**🔗 Source** : [Université de Lille – Master SIAD](https://www.univ-lille.fr/formations/fr-00002414)
 
 ---
 
-## 💼 Expériences Professionnelles 
+### 📌 Licence en Économie  
+**Université de Bourgogne** | 09/2020 - 08/2023
 
-### 📌 Data Scientist (Stage + Alternance) | Okaïdi | 05-2024 - Aujourd’hui  
-Optimisation du CRM et des campagnes marketing à travers l’analyse de segmentation client et la mise en place de modèles prédictifs.
+**🎯 Objectif de la formation**  
+Acquérir une solide culture économique générale, associée à des compétences quantitatives et analytiques, pour comprendre et interpréter les phénomènes économiques contemporains.
+
+**📚 Compétences & matières clés**  
+- 🔹 *Microéconomie & Macroéconomie* : théorie du consommateur et du producteur, modèles d'équilibre général, politiques économiques.  
+- 🔹 *Statistiques et économétrie* : statistiques descriptives univariées et bivariées, probabilités, inférence statistique, introduction à l'économétrie.  
+- 🔹 *Mathématiques appliquées* : mathématiques financières, optimisation, calcul différentiel et intégral.  
+- 🔹 *Histoire économique* : faits économiques et sociaux, histoire de la pensée économique.  
+- 🔹 *Langues étrangères* : anglais des affaires, options en espagnol ou allemand.  
+- 🔹 *Projets thématiques* : travaux dirigés, restitutions écrites et orales, analyse de données économiques.  
+
+**🛠️ Technologies abordées** : Excel, logiciels statistiques, outils de bureautique.  
+**🔗 Source** : [Université de Bourgogne – Licence Économie](https://formations.ube.fr/fr/offre-de-formation-2024-2025/licence-lmd-XA/licence-economie-LMGC1ZLQ.html)
+
+
+---
+
+## 💼 Expériences Professionnelles  
+
+### 📌 Data Scientist (Stage + Alternance) | Okaïdi | Mai 2024 – Aujourd’hui  
+Participation à des projets au service de la performance client, en lien étroit avec les équipes CRM et Data.
 
 #### 🔹 Analyse de la segmentation client  
-- Réalisation d’analyses pour affiner la **connaissance client** et optimiser l’exploitation d’une segmentation récemment mise en place.  
-- Étude des comportements d’achat et des interactions clients avec les canaux digitaux et physiques.  
+🚀 **Problème à résoudre**  
+Mieux exploiter une segmentation récemment mise en place pour améliorer la connaissance client et affiner les ciblages marketing.  
 
-🛠 **Technos** : SQL, Python, Looker, BigQuery  
-🚀 **Impact** : Meilleure compréhension des profils clients et **optimisation des stratégies marketing**.  
+📌 **Réalisations**  
+- Analyse des comportements d’achat et des canaux d’interaction (site, magasins, email, SMS).  
+- Études croisées entre les segments et les KPIs commerciaux (CA, fréquence, rétention).  
 
+🛠️ **Technologies** : SQL, Python, Looker, BigQuery  
 
-#### 🔹 Migration de cas d’usages data  
-- Participation à la migration d’une **ancienne plateforme de données** vers une nouvelle.  
-- Analyse des cas d’usage existants, identification des sources dans le **nouvel environnement**, reconstruction des pipelines de données.  
-- Mise en place de tests et **recettes** pour garantir la qualité des migrations avant la mise en production.  
+🎯 **Résultats**  
+- Segmentation enrichie de profils comportementaux.  
+- Meilleur ciblage des campagnes, cohérent avec les typologies clients.
 
-🛠 **Technos** : SQL, BigQuery, GCP  
-🚀 **Impact** : Assurer la continuité des services data, **éviter toute perte d’information et garantir la fiabilité des analyses métier**.  
+#### 🔹 Migration de cas d’usage data  
+🚀 **Problème à résoudre**  
+Assurer la continuité des analyses et automatisations lors de la migration d’une ancienne plateforme vers Google Cloud Platform.  
 
+📌 **Réalisations**  
+- Analyse des cas d’usage existants et mapping vers les nouvelles sources.  
+- Refonte des requêtes et reconstruction des pipelines dans BigQuery.  
+- Mise en place de jeux de tests et de recettes pour validation.  
+
+🛠️ **Technologies** : SQL, BigQuery, GCP  
+
+🎯 **Résultats**  
+- Reprise complète des cas d’usage critiques sans perte de données.  
+- Données plus accessibles et traitements plus rapides sur la nouvelle plateforme.
 
 #### 🔹 Construction d’un score d’appétence SMS  
-- Développement d’un **modèle de scoring** permettant d’identifier les clients les plus réceptifs aux campagnes SMS.  
-- Collaboration avec les équipes métier pour définir la variable cible et sélectionner les **features explicatives**.  
-- **Modélisation et tests** de performance avant la mise en production.  
+🚀 **Problème à résoudre**  
+Identifier les clients les plus sensibles aux campagnes SMS pour optimiser les performances CRM et éviter le gaspillage budgétaire.  
 
-🛠 **Technos** : Python, SQL, BigQuery ML  
-🚀 **Impact** : **Amélioration du ciblage client et optimisation du budget CRM**.  
+📌 **Réalisations**  
+- Modélisation basée sur l’uplift : comparaison clients ciblés vs témoins.  
+- Sélection de features explicatives : récence, fréquence, canaux utilisés, segments, etc.  
+- Tests de performance et intégration dans les outils CRM.  
+
+🛠️ **Technologies** : Python, SQL, BigQuery ML  
+
+🎯 **Résultats**  
+- Score d’appétence intégré dans les campagnes.  
+- Taux de conversion SMS amélioré et budget marketing mieux ciblé.
+
 
 ---
 
@@ -157,7 +194,7 @@ Fournir à un cabinet dentaire une solution structurée pour centraliser les don
 🔹 **Mise en lumière de périodes critiques** et des tendances structurelles.  
 🔹 **Recommandations data-driven** pour guider les futures politiques de sécurité.
 
-📂 **Lien vers le projet** : [🔗 Voir le projet](#)
+📂 **Lien vers le projet** : [Accéder au projet](https://github.com/Derka88/cabinet-datawarehouse)
 
 <br>
 
@@ -182,7 +219,7 @@ Améliorer la connaissance client et renforcer l’efficacité des actions marke
 🔹 **Campagnes marketing optimisées** grâce à une segmentation pertinente.  
 🔹 **Expérience utilisateur enrichie** via l’adaptation des offres et interfaces.
 
-🔗 **Lien vers le projet** : [Accéder au projet](https://drive.google.com/drive/folders/1Sk0aZPcY9oBbEyTBtfvtuDjAai7je3Qq?usp=drive_link)
+📂 **Lien vers le projet** : [Accéder au projet](https://github.com/Derka88/cabinet-datawarehouse)
 
 
 <br>
@@ -211,6 +248,7 @@ Développer un système capable de distinguer automatiquement les tweets rapport
 🔹 **Application web interactive** facilitant l’évaluation et la démonstration du modèle.  
 🔹 **Montée en compétences en NLP avancé** grâce à l'intégration de BERT et d'outils de déploiement simples.
 
+📂 **Lien vers le projet** : [Accéder au projet](https://github.com/Derka88/cabinet-datawarehouse)
 
 <br>
 
@@ -234,6 +272,8 @@ Mettre en place un pipeline MLOps robuste pour prévoir la consommation électri
 🔹 **Modèles prédictifs efficaces** pour la prévision de la consommation à court et moyen terme.  
 🔹 **Pipeline MLOps structuré** assurant traçabilité et comparabilité des versions de modèles.  
 🔹 **Insights métier** sur les facteurs influençant la consommation électrique nationale.
+
+📂 **Lien vers le projet** : [Accéder au projet](https://github.com/Derka88/cabinet-datawarehouse)
 
 <br>
 
@@ -259,7 +299,8 @@ Fournir une vision consolidée et fiable des indicateurs de vente à l'internati
 🔹 **ETL robuste** garantissant la qualité, l’automatisation et la traçabilité des flux de données.  
 🔹 **Dashboarding efficace** pour un pilotage commercial multi-dimensions.
 
- 
+ 📂 **Lien vers le projet** : [Accéder au projet](https://github.com/Derka88/cabinet-datawarehouse)
+
 <br>
 
 ### Nom du projet
