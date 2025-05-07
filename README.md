@@ -8,7 +8,7 @@ ___
 
 
 ## 🧐 Qui suis-je vraiment ?
-
+<div style="text-align: justify">
 Je m'appelle Abdoul Kader, et je m’intéresse à tout ce qui touche à la donnée, surtout quand elle peut être mise au service de décisions concrètes. J’ai commencé par une licence en Économie, où j’ai appris à manier les chiffres et les stats, avant de m’orienter vers un master en Systèmes d’Information et Aide à la Décision à l’Université de Lille. C’est là que j’ai découvert l’univers de la data, et j’y ai vite pris goût.
 
 Depuis mai 2024, je suis en alternance chez **Okaïdi**, dans l’équipe Performance Client. Mon rôle ? Travailler sur des sujets data liés au CRM et au marketing. J’ai notamment construit un **score d’appétence SMS** 📲 pour améliorer le ciblage des campagnes, et réalisé plusieurs analyses autour de la **segmentation client**. Ce que j’aime dans ces projets, c’est qu’ils mêlent technique, logique métier et impact réel.
@@ -16,6 +16,7 @@ Depuis mai 2024, je suis en alternance chez **Okaïdi**, dans l’équipe Perfor
 Je travaille surtout avec **SQL, Python, Looker et BigQuery**, dans un environnement cloud (GCP). J’apprécie autant creuser les données que comprendre les besoins des équipes métier pour y répondre au mieux.
 
 🔍 **Et la suite ?** Je suis à la recherche d’une nouvelle opportunité dans la data à partir de **septembre 2025**. J’aimerais continuer à apprendre, contribuer à des projets utiles, et évoluer dans une équipe où la collaboration compte.
+</div>
 
 📩 **Pour échanger :**  
 - [https://www.linkedin.com/in/kader-761148222/](#) 💼  
