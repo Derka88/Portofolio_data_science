@@ -29,7 +29,7 @@ Je travaille surtout avec **SQL, Python, Looker et BigQuery**, dans un environne
 
 
 📩 **Pour échanger :**  
-- [https://www.linkedin.com/in/kader-761148222/](#) 💼  
+- [Mon linkedin](https://www.linkedin.com/in/kader-761148222/) 💼  
 - 📧 **Email** : kadermk1088@gmail.com
 
 ---
