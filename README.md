@@ -16,7 +16,7 @@ ___
 - [💡 Soft Skills](#-soft-skills)
 - [🎓 Formation](#-formation)
 - [💼 Expériences Professionnelles](#-expériences-professionnelles)
-- [🚀 Projets Perso et académiques](#-projets-perso-et-académiques--parce-que-jaime-expérimenter-en-dehors-du-boulot)
+- [🚀 Projets Perso et académiques](#-projets-perso-et-académiques)
 
 
 ## 🧐 Qui suis-je vraiment ?
@@ -163,7 +163,7 @@ Identifier les clients les plus sensibles aux campagnes SMS pour optimiser les p
 
 ---
 
-## 🚀 Projets Perso et académiques *(Parce que j’aime expérimenter en dehors du boulot)*
+## 🚀 Projets Perso et académiques
 
 ### 🏥 Conception d'une Base de Données pour un Cabinet Dentaire
 
