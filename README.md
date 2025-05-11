@@ -105,17 +105,18 @@ Participation à des projets au service de la performance client, en lien étroi
 
 #### Analyse de la segmentation client  
 **Problème à résoudre**  
-Mieux exploiter une segmentation récemment mise en place pour améliorer la connaissance client et affiner les ciblages marketing.  
+Exploiter une segmentation récemment mise en place pour améliorer la connaissance client et renforcer la performance marketing. 
 
 **Réalisations**  
-- Analyse des comportements d’achat et des canaux d’interaction (site, magasins, email, SMS).  
-- Études croisées entre les segments et les KPIs commerciaux (CA, fréquence, rétention).  
+- Analyse de la dynamique des segments clients, avec un focus sur les profils à forte valeur (VIP).  
+- Étude des mouvements entre segments dans le temps et de leur état de santé via des KPIs clés (fréquence d’achat, rétention, chiffre d’affaires…).
+- Construction d’un tableau de bord interactif pour suivre l’évolution, l'état de santé des segments et piloter les décisions marketing.
 
 **Technologies** : SQL, Python, Looker, BigQuery  
 
 **Résultats**  
-- Segmentation enrichie de profils comportementaux.  
-- Meilleur ciblage des campagnes, cohérent avec les typologies clients.
+- Meilleure compréhension de la vie des segments (entrée, sortie, stabilité) et de leur performance. 
+- Aide à la définition de ciblages plus pertinents et cohérents avec les profils comportementaux identifiés.
 
 <br> 
 
