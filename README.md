@@ -307,6 +307,7 @@ Fournir une vision consolidée et fiable des indicateurs de vente à l'internati
 🔹 **Dashboarding efficace** pour un pilotage commercial multi-dimensions.
 
  📂 **Lien vers le projet** : [Accéder au projet](https://github.com/Derka88/Datawarehouse-OKA)
+
 ---
 
 ## 🌍 Langues  
