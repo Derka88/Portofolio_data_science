@@ -8,9 +8,7 @@ ___
 
 
 ## 🧐 Qui suis-je vraiment ?
-<div style="text-align: justify">
 Je m'appelle Abdoul Kader, et je m’intéresse à tout ce qui touche à la donnée, surtout quand elle peut être mise au service de décisions concrètes. J’ai commencé par une licence en Économie, où j’ai appris à manier les chiffres et les stats, avant de m’orienter vers un master en Systèmes d’Information et Aide à la Décision à l’Université de Lille. C’est là que j’ai découvert l’univers de la data, et j’y ai vite pris goût.
-</div>
 Depuis mai 2024, je suis en alternance chez **Okaïdi**, dans l’équipe Performance Client. Mon rôle ? Travailler sur des sujets data liés au CRM et au marketing. J’ai notamment construit un **score d’appétence SMS** 📲 pour améliorer le ciblage des campagnes, et réalisé plusieurs analyses autour de la **segmentation client**. Ce que j’aime dans ces projets, c’est qu’ils mêlent technique, logique métier et impact réel.
 
 Je travaille surtout avec **SQL, Python, Looker et BigQuery**, dans un environnement cloud (GCP). J’apprécie autant creuser les données que comprendre les besoins des équipes métier pour y répondre au mieux.
@@ -59,13 +57,13 @@ Je travaille surtout avec **SQL, Python, Looker et BigQuery**, dans un environne
 
 ## 🎓 Formation
 
-### 📌 Master 2 Systèmes d'Information et Aide à la Décision (SIAD)  
+### Master 2 Systèmes d'Information et Aide à la Décision (SIAD)  
 **Université de Lille** | 09/2023 - 09/2025
 
-**🎯 Objectif de la formation**  
+**Objectif de la formation**  
 Former des spécialistes capables de maîtriser l'ensemble de la chaîne de traitement de l'information, combinant compétences en informatique décisionnelle, statistiques avancées et compréhension des logiques métiers, pour accompagner la prise de décision dans des environnements riches en données.
 
-**📚 Compétences & matières clés**  
+**Compétences & matières clés**  
 - 🔹 **Informatique décisionnelle** : modélisation de données, bases de données relationnelles, ETL/ELT, requêteurs, logiciels d'interrogation.  
 - 🔹 **Méthodes statistiques avancées**: analyse de données, régressions économétriques, data mining, traitement des données massives.  
 - 🔹 **Économie et gestion** : compréhension des mécanismes économiques fondamentaux, fonctions de l'entreprise (marketing, comptabilité, contrôle).  
@@ -73,17 +71,17 @@ Former des spécialistes capables de maîtriser l'ensemble de la chaîne de trai
 - 🔹 **Big Data & Machine Learning** : apprentissage automatique et traitement de grandes volumétries de données.  
 - 🔹 **Traitement du langage naturel (NLP)** : analyse et modélisation du langage pour extraire des informations pertinentes.  
 
-**🛠️ Technologies abordées** : Python, R, SQL, Power BI, outils ETL, plateformes Big Data.  
+**Technologies abordées** : Python, R, SQL, Power BI, outils ETL, plateformes Big Data.  
 
 ---
 
-### 📌 Licence en Économie  
+### Licence en Économie  
 **Université de Bourgogne** | 09/2020 - 08/2023
 
-**🎯 Objectif de la formation**  
+**Objectif de la formation**  
 Acquérir une solide culture économique générale, associée à des compétences quantitatives et analytiques, pour comprendre et interpréter les phénomènes économiques contemporains.
 
-**📚 Compétences & matières clés**  
+**Compétences & matières clés**  
 - 🔹 **Microéconomie & Macroéconomie** : théorie du consommateur et du producteur, modèles d'équilibre général, politiques économiques.  
 - 🔹 **Statistiques et économétrie** : statistiques descriptives univariées et bivariées, probabilités, inférence statistique, introduction à l'économétrie.  
 - 🔹 **Mathématiques appliquées** : mathématiques financières, optimisation, calcul différentiel et intégral.  
@@ -91,7 +89,7 @@ Acquérir une solide culture économique générale, associée à des compétenc
 - 🔹 **Langues étrangères** : anglais des affaires, options en espagnol ou allemand.  
 - 🔹 **Projets thématiques** : travaux dirigés, restitutions écrites et orales, analyse de données économiques.  
 
-**🛠️ Technologies abordées** : Excel, logiciels statistiques, outils de bureautique.  
+**Technologies abordées** : Excel, logiciels statistiques, outils de bureautique.  
 
 ---
 
