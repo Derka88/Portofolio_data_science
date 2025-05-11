@@ -2,8 +2,6 @@
 
 ![EEG Band Discovery](/assets/img/Hello.png)
 
-| ![Image 1](/assets/img/Hello.png) | ![Image 2](/assets/img/Hello.png) |
-|------------------------|------------------------|
 
 Heyyy !! Si tu es là, c’est que tu veux en savoir plus sur moi (*ou alors tu t’es perdu, dans ce cas bienvenue quand même 😆*). Allez, installe-toi confortablement, prends un café ☕ et découvre mon parcours !
 
