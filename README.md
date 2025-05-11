@@ -100,51 +100,51 @@ Participation à des projets au service de la performance client, en lien étroi
 
 ---
 
-#### 🔹 Analyse de la segmentation client  
-🚀 **Problème à résoudre**  
+#### Analyse de la segmentation client  
+**Problème à résoudre**  
 Mieux exploiter une segmentation récemment mise en place pour améliorer la connaissance client et affiner les ciblages marketing.  
 
-📌 **Réalisations**  
+**Réalisations**  
 - Analyse des comportements d’achat et des canaux d’interaction (site, magasins, email, SMS).  
 - Études croisées entre les segments et les KPIs commerciaux (CA, fréquence, rétention).  
 
-🛠️ **Technologies** : SQL, Python, Looker, BigQuery  
+**Technologies** : SQL, Python, Looker, BigQuery  
 
-🎯 **Résultats**  
+**Résultats**  
 - Segmentation enrichie de profils comportementaux.  
 - Meilleur ciblage des campagnes, cohérent avec les typologies clients.
 
----
+<br> 
 
-#### 🔹 Migration de cas d’usage data  
-🚀 **Problème à résoudre**  
+#### Migration de cas d’usage data  
+**Problème à résoudre**  
 Assurer la continuité des analyses et automatisations lors de la migration d’une ancienne plateforme vers Google Cloud Platform.  
 
-📌 **Réalisations**  
+**Réalisations**  
 - Analyse des cas d’usage existants et mapping vers les nouvelles sources.  
 - Refonte des requêtes et reconstruction des pipelines dans BigQuery.  
 - Mise en place de jeux de tests et de recettes pour validation.  
 
-🛠️ **Technologies** : SQL, BigQuery, GCP  
+**Technologies** : SQL, BigQuery, GCP  
 
-🎯 **Résultats**  
+**Résultats**  
 - Reprise complète des cas d’usage critiques sans perte de données.  
 - Données plus accessibles et traitements plus rapides sur la nouvelle plateforme.
 
----
+<br> 
 
-#### 🔹 Construction d’un score d’appétence SMS  
-🚀 **Problème à résoudre**  
+#### Construction d’un score d’appétence SMS  
+**Problème à résoudre**  
 Identifier les clients les plus sensibles aux campagnes SMS pour optimiser les performances CRM et éviter le gaspillage budgétaire.  
 
-📌 **Réalisations**  
+**Réalisations**  
 - Modélisation basée sur l’uplift : comparaison clients ciblés vs témoins.  
 - Sélection de features explicatives : récence, fréquence, canaux utilisés, segments, etc.  
 - Tests de performance et intégration dans les outils CRM.  
 
-🛠️ **Technologies** : Python, SQL, BigQuery ML  
+**Technologies** : Python, SQL, BigQuery ML  
 
-🎯 **Résultats**  
+**Résultats**  
 - Score d’appétence intégré dans les campagnes.  
 - Taux de conversion SMS amélioré et budget marketing mieux ciblé.
 
@@ -158,9 +158,7 @@ Identifier les clients les plus sensibles aux campagnes SMS pour optimiser les p
 Fournir à un cabinet dentaire une solution structurée pour centraliser les données patients (comptes, adresses, contacts) afin d’améliorer le suivi administratif et la gestion quotidienne.
 
 #### 🛠️ Technologies  
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Semarchy](https://img.shields.io/badge/Semarchy-0073CF?style=for-the-badge&logo=data&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)  ![Semarchy](https://img.shields.io/badge/Semarchy-0073CF?style=for-the-badge&logo=data&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 #### 📌 Réalisations  
 ✅ Modélisation conceptuelle et logique des données (MCD & MLD) pour structurer l’information autour des patients.  
@@ -206,8 +204,7 @@ Fournir à un cabinet dentaire une solution structurée pour centraliser les don
 Améliorer la connaissance client et renforcer l’efficacité des actions marketing grâce à une segmentation basée sur le clustering, afin de mieux personnaliser l’expérience utilisateur.
 
 #### 🛠️ Technologies  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 #### 📌 Réalisations  
 ✅ **Exploration des données** – Analyse descriptive des caractéristiques clients pour identifier les variables pertinentes.  
@@ -223,7 +220,6 @@ Améliorer la connaissance client et renforcer l’efficacité des actions marke
 
 📂 **Lien vers le projet** : [Accéder au projet](https://github.com/Derka88/cabinet-datawarehouse)
 
-
 <br>
 
 ### 🌪️ Détection de Tweets Catastrophes par Analyse de Langage Naturel
@@ -232,12 +228,7 @@ Améliorer la connaissance client et renforcer l’efficacité des actions marke
 Développer un système capable de distinguer automatiquement les tweets rapportant de réelles catastrophes de ceux utilisant un langage similaire de manière non littérale, afin d'améliorer la veille informationnelle lors d'événements critiques. *(Basé sur une compétition Kaggle).*
 
 #### 🛠️ Technologies  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NLTK](https://img.shields.io/badge/NLTK-8A2BE2?style=for-the-badge)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NLTK](https://img.shields.io/badge/NLTK-8A2BE2?style=for-the-badge)  ![Tensorflow](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 #### 📌 Réalisations  
 ✅ **Prétraitement des données textuelles** – Nettoyage, tokenisation, lemmatisation pour standardiser les textes.  
@@ -260,8 +251,7 @@ Développer un système capable de distinguer automatiquement les tweets rapport
 Mettre en place un pipeline MLOps robuste pour prévoir la consommation électrique nationale (basée sur les données RTE), en assurant la reproductibilité des expériences et le suivi des performances des modèles.
 
 #### 🛠️ Technologies  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 #### 📌 Réalisations  
 ✅ **Analyse exploratoire** des données RTE : identification des tendances, saisonnalités et anomalies.  
@@ -286,9 +276,7 @@ Fournir une vision consolidée et fiable des indicateurs de vente à l'internati
 *(Clarification : ce projet est distinct de mon expérience professionnelle chez Okaïdi).*
 
 #### 🛠️ Technologies  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Semarchy](https://img.shields.io/badge/Semarchy-xDI-blue?style=for-the-badge)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  ![Semarchy](https://img.shields.io/badge/Semarchy-xDI-blue?style=for-the-badge)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 #### 📌 Réalisations  
 ✅ **Modélisation d’un datawarehouse en étoile** – Conception des tables de faits et dimensions (temps, magasin, article...).  
@@ -345,14 +333,13 @@ Fournir une vision consolidée et fiable des indicateurs de vente à l'internati
 
 ## 🌍 Langues  
 - 🇫🇷 **Français** – Langue maternelle  
-- 🇬🇧 **Anglais** – Niveau B2
+- 🇬🇧 **Anglais** – Niveau B2 score toeic : 815
 
 ---
 
-## 🎯 Centres d'intérêt  *(Parce que j’ai une vie en dehors des datasets)*
+## 🎯 Centres d'intérêt  
 - 🏀 **Basket** – 8 ans de pratique, toujours prêt pour un pick-up game.
-- ⚽ **Football** – Passionné d’analyses tactiques et de stats de joueurs.
+- ⚽ **Football** – Un grand fan du réal madrid (hala madrid).
 - 🎬 **Films Marvel** – Team **Tony Stark** all the way ! 
-- 📊 **Sport & Data** – J’adore analyser les perfs des joueurs et des équipes.
 
 > Merci d’avoir pris le temps de lire mon portfolio ! 🙌 **Si tu veux parler data, sport ou Marvel, n’hésite pas à me contacter !** 🚀
