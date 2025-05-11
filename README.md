@@ -211,7 +211,7 @@ Fournir à un cabinet dentaire une solution structurée pour centraliser les don
 🔹 **Mise en lumière de périodes critiques** et des tendances structurelles.  
 🔹 **Recommandations data-driven** pour guider les futures politiques de sécurité.
 
-📂 **Lien vers le projet** : [Accéder au projet](https://github.com/Derka88/cabinet-datawarehouse)
+📂 **Lien vers le projet** : [Accéder au projet](https://github.com/Derka88/)
 
 <br>
 
@@ -235,7 +235,7 @@ Améliorer la connaissance client et renforcer l’efficacité des actions marke
 🔹 **Campagnes marketing optimisées** grâce à une segmentation pertinente.  
 🔹 **Expérience utilisateur enrichie** via l’adaptation des offres et interfaces.
 
-📂 **Lien vers le projet** : [Accéder au projet]([https://github.com/Derka88/cabinet-datawarehouse](https://drive.google.com/drive/folders/1Sk0aZPcY9oBbEyTBtfvtuDjAai7je3Qq))
+📂 **Lien vers le projet** : [Accéder au projet](https://drive.google.com/drive/folders/1Sk0aZPcY9oBbEyTBtfvtuDjAai7je3Qq)
 
 <br>
 
