@@ -235,7 +235,7 @@ Améliorer la connaissance client et renforcer l’efficacité des actions marke
 🔹 **Campagnes marketing optimisées** grâce à une segmentation pertinente.  
 🔹 **Expérience utilisateur enrichie** via l’adaptation des offres et interfaces.
 
-📂 **Lien vers le projet** : [Accéder au projet](https://github.com/Derka88/cabinet-datawarehouse)
+📂 **Lien vers le projet** : [Accéder au projet]([https://github.com/Derka88/cabinet-datawarehouse](https://drive.google.com/drive/folders/1Sk0aZPcY9oBbEyTBtfvtuDjAai7je3Qq))
 
 <br>
 
@@ -258,7 +258,7 @@ Développer un système capable de distinguer automatiquement les tweets rapport
 🔹 **Application web interactive** facilitant l’évaluation et la démonstration du modèle.  
 🔹 **Montée en compétences en NLP avancé** grâce à l'intégration de BERT et d'outils de déploiement simples.
 
-📂 **Lien vers le projet** : [Accéder au projet](https://github.com/Derka88/cabinet-datawarehouse)
+📂 **Lien vers le projet** : [Accéder au projet](https://github.com/Derka88/Big-data)
 
 <br>
 
@@ -282,7 +282,7 @@ Mettre en place un pipeline MLOps robuste pour prévoir la consommation électri
 🔹 **Pipeline MLOps structuré** assurant traçabilité et comparabilité des versions de modèles.  
 🔹 **Insights métier** sur les facteurs influençant la consommation électrique nationale.
 
-📂 **Lien vers le projet** : [Accéder au projet](https://github.com/Derka88/cabinet-datawarehouse)
+📂 **Lien vers le projet** : [Accéder au projet](https://github.com/Derka88/MLOPS-project)
 
 <br>
 
@@ -306,46 +306,7 @@ Fournir une vision consolidée et fiable des indicateurs de vente à l'internati
 🔹 **ETL robuste** garantissant la qualité, l’automatisation et la traçabilité des flux de données.  
 🔹 **Dashboarding efficace** pour un pilotage commercial multi-dimensions.
 
- 📂 **Lien vers le projet** : [Accéder au projet](https://github.com/Derka88/cabinet-datawarehouse)
-
-<br>
-
-### Nom du projet
-
-#### 🚀 Problème à résoudre
- 
-#### 📌 Réalisations  
-✅
-✅
-✅
-
-#### 🛠️ Technologies  
-
-#### 🎯 Résultats  
-🔹
-🔹
-🔹
-
-<br>
-
-### Nom du projet
-
-#### 🚀 Problème à résoudre
- 
-#### 📌 Réalisations  
-✅
-✅
-✅
-
-#### 🛠️ Technologies  
-
-#### 🎯 Résultats  
-🔹
-🔹
-🔹
- 
-
-<br>
+ 📂 **Lien vers le projet** : [Accéder au projet](https://github.com/Derka88/Datawarehouse-OKA)
 ---
 
 ## 🌍 Langues  
