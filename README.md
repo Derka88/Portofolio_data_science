@@ -64,16 +64,16 @@ Je travaille surtout avec **SQL, Python, Looker et BigQuery**, dans un environne
 Former des spécialistes capables de maîtriser l'ensemble de la chaîne de traitement de l'information, combinant compétences en informatique décisionnelle, statistiques avancées et compréhension des logiques métiers, pour accompagner la prise de décision dans des environnements riches en données.
 
 **Compétences & matières clés**  
-- 🔹 **Informatique décisionnelle** : modélisation de données, bases de données relationnelles, ETL/ELT, requêteurs, logiciels d'interrogation.  
-- 🔹 **Méthodes statistiques avancées**: analyse de données, régressions économétriques, data mining, traitement des données massives.  
-- 🔹 **Économie et gestion** : compréhension des mécanismes économiques fondamentaux, fonctions de l'entreprise (marketing, comptabilité, contrôle).  
-- 🔹 **Professionnalisation** : stages, projets tutorés, préparation à l'insertion professionnelle.  
-- 🔹 **Big Data & Machine Learning** : apprentissage automatique et traitement de grandes volumétries de données.  
-- 🔹 **Traitement du langage naturel (NLP)** : analyse et modélisation du langage pour extraire des informations pertinentes.  
+- **Informatique décisionnelle** : modélisation de données, bases de données relationnelles, ETL/ELT, requêteurs, logiciels d'interrogation.  
+- **Méthodes statistiques avancées**: analyse de données, régressions économétriques, data mining, traitement des données massives.  
+- **Économie et gestion** : compréhension des mécanismes économiques fondamentaux, fonctions de l'entreprise (marketing, comptabilité, contrôle).  
+- **Professionnalisation** : stages, projets tutorés, préparation à l'insertion professionnelle.  
+- **Big Data & Machine Learning** : apprentissage automatique et traitement de grandes volumétries de données.  
+- **Traitement du langage naturel (NLP)** : analyse et modélisation du langage pour extraire des informations pertinentes.  
 
 **Technologies abordées** : Python, R, SQL, Power BI, outils ETL, plateformes Big Data.  
 
----
+<br> 
 
 ### Licence en Économie  
 **Université de Bourgogne** | 09/2020 - 08/2023
@@ -82,12 +82,12 @@ Former des spécialistes capables de maîtriser l'ensemble de la chaîne de trai
 Acquérir une solide culture économique générale, associée à des compétences quantitatives et analytiques, pour comprendre et interpréter les phénomènes économiques contemporains.
 
 **Compétences & matières clés**  
-- 🔹 **Microéconomie & Macroéconomie** : théorie du consommateur et du producteur, modèles d'équilibre général, politiques économiques.  
-- 🔹 **Statistiques et économétrie** : statistiques descriptives univariées et bivariées, probabilités, inférence statistique, introduction à l'économétrie.  
-- 🔹 **Mathématiques appliquées** : mathématiques financières, optimisation, calcul différentiel et intégral.  
-- 🔹 **Histoire économique** : faits économiques et sociaux, histoire de la pensée économique.  
-- 🔹 **Langues étrangères** : anglais des affaires, options en espagnol ou allemand.  
-- 🔹 **Projets thématiques** : travaux dirigés, restitutions écrites et orales, analyse de données économiques.  
+- **Microéconomie & Macroéconomie** : théorie du consommateur et du producteur, modèles d'équilibre général, politiques économiques.  
+- **Statistiques et économétrie** : statistiques descriptives univariées et bivariées, probabilités, inférence statistique, introduction à l'économétrie.  
+- **Mathématiques appliquées** : mathématiques financières, optimisation, calcul différentiel et intégral.  
+- **Histoire économique** : faits économiques et sociaux, histoire de la pensée économique.  
+- **Langues étrangères** : anglais des affaires, options en espagnol ou allemand.  
+- **Projets thématiques** : travaux dirigés, restitutions écrites et orales, analyse de données économiques.  
 
 **Technologies abordées** : Excel, logiciels statistiques, outils de bureautique.  
 
