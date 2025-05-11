@@ -10,11 +10,12 @@ ___
 # Sommaire
 
 - [🧐 Qui suis-je vraiment ?](#-qui-suis-je-vraiment-)
-- [🛠️ Compétences Techniques](#-compétences-techniques)
+- [🛠️ Compétences Techniques](#%EF%B8%8F-compétences-techniques)
 - [💡 Soft Skills](#-soft-skills)
 - [🎓 Formation](#-formation)
 - [💼 Expériences Professionnelles](#-expériences-professionnelles)
 - [🚀 Projets Perso et académiques](#-projets-perso-et-académiques)
+
 
 
 ## 🧐 Qui suis-je vraiment ?
