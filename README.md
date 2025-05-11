@@ -9,6 +9,15 @@ Heyyy !! Si tu es là, c’est que tu veux en savoir plus sur moi (*ou alors tu 
 
 ___
 
+# Sommaire
+
+- [🧐 Qui suis-je vraiment ?](#-qui-suis-je-vraiment-)
+- [🛠️ Compétences Techniques](#-compétences-techniques)
+- [💡 Soft Skills](#-soft-skills)
+- [🎓 Formation](#-formation)
+- [💼 Expériences Professionnelles](#-expériences-professionnelles)
+- [🚀 Projets Perso et académiques](#-projets-perso-et-académiques--parce-que-jaime-expérimenter-en-dehors-du-boulot)
+
 
 ## 🧐 Qui suis-je vraiment ?
 Je m'appelle Abdoul Kader, et je m’intéresse à tout ce qui touche à la donnée, surtout quand elle peut être mise au service de décisions concrètes. J’ai commencé par une licence en Économie, où j’ai appris à manier les chiffres et les stats, avant de m’orienter vers un master en Systèmes d’Information et Aide à la Décision à l’Université de Lille. C’est là que j’ai découvert l’univers de la data, et j’y ai vite pris goût.
