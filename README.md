@@ -185,7 +185,7 @@ Fournir à un cabinet dentaire une solution structurée pour centraliser les don
 #### 📌 Réalisations  
 ✅ Modélisation conceptuelle et logique des données (MCD & MLD) pour structurer l’information autour des patients.  
 ✅ Intégration des données issues de fichiers plats via un processus ETL automatisé (nettoyage, transformation, contrôle qualité) sous Semarchy xDI.  
-✅ Création d’un tableau de bord Power BI connecté, offrant une visualisation claire des données patients et un moteur de recherche performant.
+✅ Création d’un tableau de bord Power BI connecté, offrant une visualisation claire des données patients et un moteur de recherche.
 
 #### 🎯 Résultats  
 🔹 Base de données centralisée et fiable facilitant la gestion des patients.  
@@ -193,30 +193,6 @@ Fournir à un cabinet dentaire une solution structurée pour centraliser les don
 🔹 Dashboard intuitif pour un pilotage efficace de l’activité du cabinet.
 
 📂 **Lien vers le projet** : [Accéder au projet](https://github.com/Derka88/cabinet-datawarehouse)
-
-<br> 
-
-### 🚗 Étude des Impacts des Mesures de Sécurité Routière sur les Autoroutes Françaises
-
-#### ❓ Problème à résoudre  
-Évaluer l’efficacité des différentes mesures de sécurité routière mises en place sur les autoroutes françaises, en analysant leur impact sur le nombre d’accidents et de décès.
-
-#### 🛠️ Technologies  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-#### 📌 Réalisations  
-✅ **Exploration des données** – Analyse d’une base d’accidents sur les autoroutes françaises.  
-✅ **Intégration de données externes** – Recherche et collecte des mesures de sécurité mises en place au fil du temps.  
-✅ **Visualisation & analyse exploratoire** – Étude des tendances d’accidents et de mortalité avant/après les mesures.  
-✅ **Modélisation statistique** – Quantification de l’impact des mesures via des modèles statistiques et visuels interactifs.  
-✅ **Recommandations stratégiques** – Propositions d’amélioration basées sur les données analysées.
-
-#### 🎯 Résultats  
-🔹 **Identification des mesures les plus efficaces** pour réduire les accidents et décès.  
-🔹 **Mise en lumière de périodes critiques** et des tendances structurelles.  
-🔹 **Recommandations data-driven** pour guider les futures politiques de sécurité.
-
-📂 **Lien vers le projet** : [Accéder au projet](https://github.com/Derka88/)
 
 <br>
 
@@ -226,7 +202,7 @@ Fournir à un cabinet dentaire une solution structurée pour centraliser les don
 Améliorer la connaissance client et renforcer l’efficacité des actions marketing grâce à une segmentation basée sur le clustering, afin de mieux personnaliser l’expérience utilisateur.
 
 #### 🛠️ Technologies  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 #### 📌 Réalisations  
 ✅ **Exploration des données** – Analyse descriptive des caractéristiques clients pour identifier les variables pertinentes.  
@@ -256,7 +232,7 @@ Développer un système capable de distinguer automatiquement les tweets rapport
 ✅ **Prétraitement des données textuelles** – Nettoyage, tokenisation, lemmatisation pour standardiser les textes.  
 ✅ **Extraction de features** – Utilisation de Bag of Words, TF-IDF et embeddings BERT pour capter les nuances sémantiques.  
 ✅ **Modélisation** – Entraînement de plusieurs modèles : Régression Logistique, Random Forest, XGBoost, et fine-tuning de modèles BERT.  
-✅ **Déploiement** – Création d'une application Streamlit permettant de tester le modèle en temps réel sur de nouveaux tweets.
+✅ **Déploiement** – Création d'une application Streamlit permettant de tester le modèle le plus performant (BERT) en temps réel sur de nouveaux tweets.
 
 #### 🎯 Résultats  
 🔹 **Modèle performant** pour l’identification automatique des tweets signalant de vraies catastrophes.  
@@ -285,33 +261,8 @@ Mettre en place un pipeline MLOps robuste pour prévoir la consommation électri
 #### 🎯 Résultats  
 🔹 **Modèles prédictifs efficaces** pour la prévision de la consommation à court et moyen terme.  
 🔹 **Pipeline MLOps structuré** assurant traçabilité et comparabilité des versions de modèles.  
-🔹 **Insights métier** sur les facteurs influençant la consommation électrique nationale.
 
 📂 **Lien vers le projet** : [Accéder au projet](https://github.com/Derka88/MLOPS-project)
-
-<br>
-
-### 🌍 Datawarehouse Ventes Internationales – Okaïdi
-
-#### ❓ Problème à résoudre  
-Fournir une vision consolidée et fiable des indicateurs de vente à l'international pour l'entreprise Okaïdi, en centralisant des données provenant de différentes sources (fichiers de caisse, référentiels articles).  
-*(Clarification : ce projet est distinct de mon expérience professionnelle chez Okaïdi).*
-
-#### 🛠️ Technologies  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  ![Semarchy](https://img.shields.io/badge/Semarchy-xDI-blue?style=for-the-badge)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-#### 📌 Réalisations  
-✅ **Modélisation d’un datawarehouse en étoile** – Conception des tables de faits et dimensions (temps, magasin, article...).  
-✅ **Développement d’un processus ETL avec Semarchy xDI** – Ingestion, contrôle qualité et transformation de données brutes (fichiers plats, référentiels).  
-✅ **Alimentation automatisée** du datawarehouse structuré pour l'analyse.  
-✅ **Création de tableaux de bord Power BI** dynamiques connectés au DWH : suivi du chiffre d’affaires, volume, panier moyen par axes d’analyse variés.
-
-#### 🎯 Résultats  
-🔹 **Datawarehouse centralisé** assurant une source unique de vérité sur les ventes internationales.  
-🔹 **ETL robuste** garantissant la qualité, l’automatisation et la traçabilité des flux de données.  
-🔹 **Dashboarding efficace** pour un pilotage commercial multi-dimensions.
-
- 📂 **Lien vers le projet** : [Accéder au projet](https://github.com/Derka88/Datawarehouse-OKA)
 
 ---
 
