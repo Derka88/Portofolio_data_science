@@ -1,4 +1,4 @@
-# Data Scientist
+# Ingénieur Data
 
 ![EEG Band Discovery](/assets/img/Hello.png)
 
@@ -33,11 +33,72 @@ Je travaille surtout avec **SQL, Python, Looker et BigQuery**, dans un environne
 
 ---
 
+## 💼 Expériences Professionnelles   
+
+### 📌 Data Scientist | Pôle Performance Client – Okaïdi  
+**Mai 2024 – Septembre 2025 | Roubaix, France**
+
+Développement et industrialisation de solutions data et de modèles prédictifs pour améliorer la connaissance client et répondre aux besoins des équipes CRM et marketing.
+
+#### 🔍 Analyse de la santé et de la dynamique des segments clients  
+- Analyse du comportement et de l’évolution des segments : rétention, fréquence d’achat, valeur client…  
+- Étude des transitions entre segments et identification des signaux faibles.  
+- Création de tableaux de bord de suivi pour piloter la performance marketing.  
+
+**Technologies** : SQL, Python, Looker, GCP  
+
+---
+
+#### 🔄 Migration de cas d’usage data vers une nouvelle plateforme  
+- Reprise et migration de cas d’usage data vers une nouvelle plateforme client.  
+- Réécriture des pipelines et reconstruction des scripts d’analyse.  
+- Mise en place de jeux de tests pour assurer la qualité des données migrées.  
+
+**Technologies** : SQL, Python, GCP, Snowflake  
+
+---
+
+#### 📲 Modèle de scoring d’appétence SMS  
+- Conception d’un modèle de scoring pour prédire la probabilité de réponse aux campagnes SMS.  
+- Backtesting sur campagnes passées pour évaluer le gain marketing.  
+- Recommandations opérationnelles pour optimiser les ciblages CRM.  
+
+**Technologies** : Python, SQL, Pyspark, GCP  
+
+---
+
+#### 🛠️ Run & exploitation  
+- Automatisation et suivi quotidien des traitements data.  
+- Contrôles de qualité et fiabilisation des pipelines existants.  
+
+---
+
+### 📌 Consultant Data | Métropole Européenne de Lille (MEL)  
+**Avril 2025 – Juin 2025 | Lille, France**
+
+Accompagnement de la direction du foncier dans l’optimisation de l’exploitation de données issues d’actes notariés.
+
+#### 📄 Extraction et structuration de données non structurées  
+- Extraction automatisée d’informations contenues dans des PDF et images d’actes fonciers grâce à l’OCR.  
+- Conception de prompts IA pour extraire les données clés (dates, prix, adresses, parcelles…).  
+- Modélisation et intégration des données extraites dans un modèle structuré.  
+
+**Technologies** : Microsoft Fabric, Python  
+
+---
+
+#### 📊 Développement d’une application de visualisation  
+- Création d’une application Power BI permettant la consultation et l’analyse des données foncières.  
+- Mise en place de filtres, indicateurs clés et dataviz adaptées aux besoins opérationnels.  
+
+**Technologies** : Power BI  
+
+---
+
 ## 🛠️ Compétences Techniques
 
 ### 💻 Langages Informatiques  
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  ![SAS](https://img.shields.io/badge/SAS-003366?style=for-the-badge&logo=sas&logoColor=white)  ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  ![SAS](https://img.shields.io/badge/SAS-003366?style=for-the-badge&logo=sas&logoColor=white)  ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
 ### 🧠 Machine Learning & Statistiques  
@@ -106,64 +167,6 @@ Acquérir une solide culture économique générale, associée à des compétenc
 - **Projets thématiques** : travaux dirigés, restitutions écrites et orales, analyse de données économiques.  
 
 **Technologies abordées** : Excel, logiciels statistiques, outils de bureautique.  
-
----
-
-## 💼 Expériences Professionnelles  
-
-### 📌 Data Scientist (Stage + Alternance) | Okaïdi | Mai 2024 – Aujourd’hui  
-Participation à des projets au service de la performance client, en lien étroit avec les équipes CRM et Data.
-
----
-
-#### Analyse de la segmentation client  
-**Problème à résoudre**  
-Exploiter une segmentation récemment mise en place pour améliorer la connaissance client et renforcer la performance marketing. 
-
-**Réalisations**  
-- Analyse de la dynamique des segments clients, avec un focus sur les profils à forte valeur (VIP).  
-- Étude des mouvements entre segments dans le temps et de leur état de santé via des KPIs clés (fréquence d’achat, rétention, chiffre d’affaires…).
-- Construction d’un tableau de bord interactif pour suivre l’évolution, l'état de santé des segments et piloter les décisions marketing.
-
-**Technologies** : SQL, Python, Looker, BigQuery  
-
-**Résultats**  
-- Meilleure compréhension de la vie des segments (entrée, sortie, stabilité) et de leur performance. 
-- Aide à la définition de ciblages plus pertinents et cohérents avec les profils comportementaux identifiés.
-
-<br> 
-
-#### Migration de cas d’usage data  
-**Problème à résoudre**  
-Assurer la continuité des analyses et automatisations lors de la migration d’une ancienne plateforme vers Google Cloud Platform.  
-
-**Réalisations**  
-- Analyse des cas d’usage existants et mapping vers les nouvelles sources.  
-- Refonte des requêtes et reconstruction des pipelines dans BigQuery.  
-- Mise en place de jeux de tests et de recettes pour validation.  
-
-**Technologies** : SQL, BigQuery, GCP  
-
-**Résultats**  
-- Reprise complète des cas d’usage critiques sans perte de données.  
-- Données plus accessibles et traitements plus rapides sur la nouvelle plateforme.
-
-<br> 
-
-#### Construction d’un score d’appétence SMS  
-**Problème à résoudre**  
-Identifier les clients les plus sensibles aux campagnes SMS pour optimiser les performances CRM et éviter le gaspillage budgétaire.  
-
-**Réalisations**  
-- Modélisation basée sur l’uplift : comparaison clients ciblés vs témoins.  
-- Sélection de features explicatives : récence, fréquence, canaux utilisés, segments, etc.  
-- Tests de performance et intégration dans les outils CRM.  
-
-**Technologies** : Python, SQL, BigQuery ML  
-
-**Résultats**  
-- Score d’appétence intégré dans les campagnes.  
-- Taux de conversion SMS amélioré et budget marketing mieux ciblé.
 
 ---
 
