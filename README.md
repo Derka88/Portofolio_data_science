@@ -10,11 +10,11 @@ ___
 # Sommaire
 
 - [🧐 Qui suis-je vraiment ?](#-qui-suis-je-vraiment-)
+- [💼 Expériences Professionnelles](#-expériences-professionnelles)
 - [🛠️ Compétences Techniques](#%EF%B8%8F-compétences-techniques)
 - [💡 Soft Skills](#-soft-skills)
 - [🎓 Formation](#-formation)
-- [💼 Expériences Professionnelles](#-expériences-professionnelles)
-- [🚀 Projets Perso et académiques](#-projets-perso-et-académiques)
+- [🚀 Projets Perso](#-projets-perso)
 
 
 
@@ -134,43 +134,45 @@ Accompagnement de la direction du foncier dans l’optimisation de l’exploitat
 
 ## 🎓 Formation
 
-### Master 2 Systèmes d'Information et Aide à la Décision (SIAD)  
+### Master Systèmes d'Information et Aide à la Décision (SIAD)  
 **Université de Lille** | 09/2023 - 09/2025
 
 **Objectif de la formation**  
-Former des spécialistes capables de maîtriser l'ensemble de la chaîne de traitement de l'information, combinant compétences en informatique décisionnelle, statistiques avancées et compréhension des logiques métiers, pour accompagner la prise de décision dans des environnements riches en données.
+Former des professionnels capables de maîtriser la chaîne complète de la donnée : collecte, modélisation, analyse statistique et valorisation décisionnelle. Le master combine informatique décisionnelle, statistiques avancées, data engineering et compréhension des besoins métiers.
 
 **Compétences & matières clés**  
-- **Informatique décisionnelle** : modélisation de données, bases de données relationnelles, ETL/ELT, requêteurs, logiciels d'interrogation.  
-- **Méthodes statistiques avancées**: analyse de données, régressions économétriques, data mining, traitement des données massives.  
-- **Économie et gestion** : compréhension des mécanismes économiques fondamentaux, fonctions de l'entreprise (marketing, comptabilité, contrôle).  
-- **Professionnalisation** : stages, projets tutorés, préparation à l'insertion professionnelle.  
-- **Big Data & Machine Learning** : apprentissage automatique et traitement de grandes volumétries de données.  
-- **Traitement du langage naturel (NLP)** : analyse et modélisation du langage pour extraire des informations pertinentes.  
+- **Informatique décisionnelle & Data Warehouse** : modélisation multidimensionnelle, conception et optimisation de bases de données, ETL/ELT, intégration de données.  
+- **Statistique & Data Science** : régressions avancées, économétrie, data mining, machine learning, analyse exploratoire, gestion de données massives.  
+- **Data Engineering** : pipelines de données, automatisation, qualité des données, introduction au cloud et aux architectures distribuées.  
+- **Génie logiciel & développement** : programmation Python/R, SQL avancé, bonnes pratiques de développement, Git.  
+- **Systèmes d'information & gestion** : compréhension des processus métiers, fonctions de l’entreprise, marketing, contrôle de gestion.  
+- **Gestion de projet & AMOA** : cadrage des besoins, conduite de projet data, communication et restitution.  
+- **NLP & traitement textuel** : extraction, nettoyage et analyse de données textuelles.  
+- **Professionnalisation** : stage long, projets tutorés, études de cas en entreprise, ateliers d’insertion professionnelle.
 
-**Technologies abordées** : Python, R, SQL, Power BI,Tableau, outils ETL, plateformes Big Data.  
+**Technologies abordées** : Python, R, SQL, Power BI, Tableau, Git, outils ETL, environnements Big Data (notions cloud).
 
-<br> 
+<br>
 
 ### Licence en Économie  
 **Université de Bourgogne** | 09/2020 - 08/2023
 
 **Objectif de la formation**  
-Acquérir une solide culture économique générale, associée à des compétences quantitatives et analytiques, pour comprendre et interpréter les phénomènes économiques contemporains.
+Acquérir une solide culture économique et une maîtrise des outils quantitatifs pour analyser les comportements, les marchés, les politiques publiques et les grands phénomènes économiques contemporains.
 
 **Compétences & matières clés**  
-- **Microéconomie & Macroéconomie** : théorie du consommateur et du producteur, modèles d'équilibre général, politiques économiques.  
-- **Statistiques et économétrie** : statistiques descriptives univariées et bivariées, probabilités, inférence statistique, introduction à l'économétrie.  
-- **Mathématiques appliquées** : mathématiques financières, optimisation, calcul différentiel et intégral.  
-- **Histoire économique** : faits économiques et sociaux, histoire de la pensée économique.  
-- **Langues étrangères** : anglais des affaires, options en espagnol ou allemand.  
-- **Projets thématiques** : travaux dirigés, restitutions écrites et orales, analyse de données économiques.  
+- **Économie théorique** : microéconomie, macroéconomie, économie internationale, politiques économiques.  
+- **Économie quantitative & économétrie** : probabilités, statistiques descriptives et inférentielles, introduction à l’économétrie et à l'analyse empirique.  
+- **Mathématiques appliquées** : algèbre, optimisations, calcul différentiel et intégral, mathématiques financières.  
+- **Histoire & pensée économique** : évolution des systèmes économiques et des théories majeures.  
+- **Méthodologie & analyse appliquée** : conduite d’études, rédaction académique, restitution orale, mini-projets empiriques.  
+- **Langues étrangères** : anglais des affaires (et options selon le parcours).  
 
-**Technologies abordées** : Excel, logiciels statistiques, outils de bureautique.  
+**Technologies abordées** : Excel, logiciels statistiques, outils bureautiques.
 
 ---
 
-## 🚀 Projets Perso et académiques
+## 🚀 Projets Perso
 
 ### 🏥 Conception d'une Base de Données pour un Cabinet Dentaire
 
@@ -322,6 +324,5 @@ Fournir une vision consolidée et fiable des indicateurs de vente à l'internati
 ## 🎯 Centres d'intérêt  
 - 🏀 **Basket** – 8 ans de pratique, toujours prêt pour un pick-up game.
 - ⚽ **Football** – Un grand fan du réal madrid (hala madrid).
-- 🎬 **Films Marvel** – Team **Tony Stark** all the way ! 
 
 > Merci d’avoir pris le temps de lire mon portfolio ! 🙌 **Si tu veux parler data, sport ou Marvel, n’hésite pas à me contacter !** 🚀
