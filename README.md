@@ -36,24 +36,25 @@ Je travaille surtout avec **SQL, Python, Looker et BigQuery**, dans un environne
 ## 🛠️ Compétences Techniques
 
 ### 💻 Langages Informatiques  
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  ![SAS](https://img.shields.io/badge/SAS-003366?style=for-the-badge&logo=sas&logoColor=white)  ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  ![SAS](https://img.shields.io/badge/SAS-003366?style=for-the-badge&logo=sas&logoColor=white)  ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 
 ### 🧠 Machine Learning & Statistiques  
 - Modélisation (classification, régression, segmentation, série temporelle)  
 - Scoring marketing (appétence, churn...)  
 - Traitement automatique du langage (NLP)  
-- Statistiques décisionnelles  
-- Économétrie appliquée à la donnée client  
+- Statistiques décisionnelles   
+
+### ☁️ Bases de Données & Cloud  
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  ![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)  ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-2C2C2C?style=for-the-badge&logo=microsoft&logoColor=white)
+
+
+### 📊 BI & Dataviz  
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 
 ### 🔄 ETL & Data Integration  
 ![Semarchy](https://img.shields.io/badge/Semarchy-0073CF?style=for-the-badge&logo=data&logoColor=white)  
-*Notions de Talend*
-
-### ☁️ Bases de Données & Cloud  
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)  ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  ![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
-
-### 📊 BI & Dataviz  
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 
 ### 🔧 Outils Dev & Versioning  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![MLflow](https://img.shields.io/badge/MLflow-102760?style=for-the-badge&logo=mlflow&logoColor=white)
@@ -62,12 +63,11 @@ Je travaille surtout avec **SQL, Python, Looker et BigQuery**, dans un environne
 
 ## 💡 Soft Skills 
 
-- **Esprit analytique** – Capacité à extraire des insights pertinents et à proposer des recommandations data-driven.  
-- **Travail en équipe** – Expérience en collaboration avec des équipes métiers, IT et marketing.  
-- **Résolution de problèmes** – Approche méthodique pour résoudre des problématiques complexes.  
-- **Communication** – Capacité à vulgariser des concepts techniques pour les rendre accessibles aux non-experts.  
-- **Adaptabilité** – Capacité à apprendre rapidement de nouvelles technologies et méthodologies.  
-- **Curieux** – Toujours à l’affût des nouvelles tendances et technologies en data science.
+- **Adaptabilité & flexibilité** – Capacité à évoluer dans des environnements variés et à s’ajuster rapidement aux changements.  
+- **Travail en équipe** – Habitude de collaborer efficacement avec les équipes métier, data, CRM et marketing.  
+- **Orientation client** – Compréhension des besoins métier et capacité à proposer des solutions data utiles et actionnables.  
+- **Esprit d’analyse & résolution de problèmes** – Capacité à structurer, analyser et résoudre des problématiques complexes.  
+- **Curiosité** – Envie constante d’apprendre, d’expérimenter et de découvrir de nouvelles approches ou technologies.
 
 ---
 
@@ -87,7 +87,7 @@ Former des spécialistes capables de maîtriser l'ensemble de la chaîne de trai
 - **Big Data & Machine Learning** : apprentissage automatique et traitement de grandes volumétries de données.  
 - **Traitement du langage naturel (NLP)** : analyse et modélisation du langage pour extraire des informations pertinentes.  
 
-**Technologies abordées** : Python, R, SQL, Power BI, outils ETL, plateformes Big Data.  
+**Technologies abordées** : Python, R, SQL, Power BI,Tableau, outils ETL, plateformes Big Data.  
 
 <br> 
 
