@@ -19,17 +19,28 @@ ___
 
 
 ## 🧐 Qui suis-je vraiment ?
-Je m'appelle Abdoul Kader, et je m’intéresse à tout ce qui touche à la donnée, surtout quand elle peut être mise au service de décisions concrètes. J’ai commencé par une licence en Économie, où j’ai appris à manier les chiffres et les stats, avant de m’orienter vers un master en Systèmes d’Information et Aide à la Décision à l’Université de Lille. C’est là que j’ai découvert l’univers de la data, et j’y ai vite pris goût.
-Depuis mai 2024, je suis en alternance chez **Okaïdi**, dans l’équipe Performance Client. Mon rôle ? Travailler sur des sujets data liés au CRM et au marketing. J’ai notamment construit un **score d’appétence SMS** 📲 pour améliorer le ciblage des campagnes, et réalisé plusieurs analyses autour de la **segmentation client**. Ce que j’aime dans ces projets, c’est qu’ils mêlent technique, logique métier et impact réel.
 
-Je travaille surtout avec **SQL, Python, Looker et BigQuery**, dans un environnement cloud (GCP). J’apprécie autant creuser les données que comprendre les besoins des équipes métier pour y répondre au mieux.
+Je m’appelle **Abdoul Kader**, et je suis passionné par tout ce qui touche à la donnée surtout lorsqu’elle permet de mieux comprendre un client, d’optimiser un process ou d’éclairer une décision stratégique.
 
-🔍 **Et la suite ?** Je suis à la recherche d’une nouvelle opportunité dans la data à partir de **septembre 2025**. J’aimerais continuer à apprendre, contribuer à des projets utiles, et évoluer dans une équipe où la collaboration compte.
+Après une **licence en Économie**, où j’ai acquis une solide base en statistiques et en analyse quantitative, j’ai poursuivi en **Master SIAD (Systèmes d’Information et Aide à la Décision)** à l’Université de Lille. C’est là que j’ai découvert la data à grande échelle : la modélisation, les bases de données, le cloud, l’analytique… et j’ai tout de suite accroché.
 
+Entre **mai 2024 et septembre 2025**, j’ai travaillé au sein de l’équipe **Performance Client d’Okaïdi** en tant que Data Scientist. J’y ai développé et industrialisé des solutions data destinées au CRM et au marketing :  
+- Construction d’un **score d’appétence SMS** pour optimiser les ciblages 💬  
+- Analyses de **santé et dynamique des segments clients**  
+- Migration de cas d’usage data vers une nouvelle plateforme de données
+- Production et fiabilisation des dashboards de suivi  
+
+J’ai également mené une **mission de consulting data pour la Métropole Européenne de Lille (MEL)**, où j’ai automatisé l’extraction d’informations clés à partir d’actes de vente non structurés (PDF, images) via OCR + IA, puis construit une application Power BI pour faciliter l’analyse des données foncières.
+
+Je travaille principalement avec **SQL, Python, PySpark, Looker, Power BI, BigQuery, Snowflake**, et j’aime autant les aspects techniques que la compréhension des besoins métier.
+
+🔍 **Et maintenant ?**  
+Je suis à la recherche d’une **nouvelle opportunité à partir de septembre 2025**, idéalement en tant que **Data Analyst ou Data Scientist**, où je pourrai continuer à apprendre, résoudre des problèmes concrets et faire le lien entre la donnée et les équipes métier.
 
 📩 **Pour échanger :**  
-- [Mon linkedin](https://www.linkedin.com/in/kader-761148222/) 💼  
-- 📧 **Email** : kadermk1088@gmail.com
+- 💼 [Mon LinkedIn](https://www.linkedin.com/in/kader-761148222/)  
+- ✉️ **Email** : kadermk1088@gmail.com  
+- 📱 **Téléphone** : +33 7 53 25 02 27
 
 ---
 
