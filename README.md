@@ -35,7 +35,7 @@ J’ai également mené une **mission de consulting data pour la Métropole Euro
 Je travaille principalement avec **SQL, Python, PySpark, Looker, Power BI, BigQuery, Snowflake**, et j’aime autant les aspects techniques que la compréhension des besoins métier.
 
 🔍 **Et maintenant ?**  
-Je suis à la recherche d’une **nouvelle opportunité à partir de septembre 2025**, idéalement en tant que **Data Analyst ou Data Scientist**, où je pourrai continuer à apprendre, résoudre des problèmes concrets et faire le lien entre la donnée et les équipes métier.
+Je suis à la recherche d’une **nouvelle opportunité** où je pourrai continuer à apprendre, résoudre des problèmes concrets et faire le lien entre la donnée et les équipes métier.
 
 📩 **Pour échanger :**  
 - 💼 [Mon LinkedIn](https://www.linkedin.com/in/kader-761148222/)  
